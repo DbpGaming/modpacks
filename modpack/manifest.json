@@ -1,0 +1,868 @@
+{
+  "minecraft": {
+    "version": "1.18.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.12.12",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0",
+  "author": "DbpGaming",
+  "name": "Vanilla Compatible Base Pack",
+  "files": [
+    {
+      "projectID": 60089,
+      "fileID": 3601896,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
+      "projectID": 242064,
+      "fileID": 3615858,
+      "required": true,
+      "__meta": {
+        "name": "Item Scroller",
+        "dependencies": [
+          303119
+        ]
+      }
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3544502,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 3599013,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3575673,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 261605,
+      "fileID": 3543431,
+      "required": true,
+      "__meta": {
+        "name": "EasierVillagerTrading"
+      }
+    },
+    {
+      "projectID": 263420,
+      "fileID": 3613286,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's Minimap",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 273279,
+      "fileID": 3543423,
+      "required": true,
+      "__meta": {
+        "name": "AntiGhost"
+      }
+    },
+    {
+      "projectID": 280294,
+      "fileID": 3548893,
+      "required": true,
+      "__meta": {
+        "name": "FPS Reducer",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 303119,
+      "fileID": 3615856,
+      "required": true,
+      "__meta": {
+        "name": "MaLiLib"
+      }
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3613749,
+      "required": true,
+      "__meta": {
+        "name": "Fabric API"
+      }
+    },
+    {
+      "projectID": 308702,
+      "fileID": 3570652,
+      "required": true,
+      "__meta": {
+        "name": "Mod Menu"
+      }
+    },
+    {
+      "projectID": 308769,
+      "fileID": 3573712,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Language Kotlin"
+      }
+    },
+    {
+      "projectID": 308793,
+      "fileID": 3615727,
+      "required": true,
+      "__meta": {
+        "name": "Clear Despawn [Fabric]",
+        "dependencies": [
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 310111,
+      "fileID": 3611115,
+      "required": true,
+      "__meta": {
+        "name": "Roughly Enough Items Fabric/Forge (REI)",
+        "dependencies": [
+          319057,
+          419697,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 310205,
+      "fileID": 3549245,
+      "required": true,
+      "__meta": {
+        "name": "Borderless Mining"
+      }
+    },
+    {
+      "projectID": 313219,
+      "fileID": 3563686,
+      "required": true,
+      "__meta": {
+        "name": "Health Overlay (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 317121,
+      "fileID": 3612123,
+      "required": true,
+      "__meta": {
+        "name": "Cloth API (Fabric)"
+      }
+    },
+    {
+      "projectID": 317780,
+      "fileID": 3613296,
+      "required": true,
+      "__meta": {
+        "name": "Xaero's World Map",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 319057,
+      "fileID": 3559638,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric)"
+      }
+    },
+    {
+      "projectID": 325492,
+      "fileID": 3552777,
+      "required": true,
+      "__meta": {
+        "name": "Light Overlay (Rift/Forge/Fabric)",
+        "dependencies": [
+          306612,
+          419697,
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 332548,
+      "fileID": 3578823,
+      "required": true,
+      "__meta": {
+        "name": "Right Click Clear"
+      }
+    },
+    {
+      "projectID": 333287,
+      "fileID": 3523461,
+      "required": true,
+      "__meta": {
+        "name": "First-person Model (Forge/Fabric)",
+        "dependencies": [
+          306612,
+          433760
+        ]
+      }
+    },
+    {
+      "projectID": 335493,
+      "fileID": 3606973,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic FPS",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 349239,
+      "fileID": 3613878,
+      "required": true,
+      "__meta": {
+        "name": "Carpet"
+      }
+    },
+    {
+      "projectID": 349240,
+      "fileID": 3542068,
+      "required": true,
+      "__meta": {
+        "name": "Carpet Extra",
+        "dependencies": [
+          349239
+        ]
+      }
+    },
+    {
+      "projectID": 349630,
+      "fileID": 3557414,
+      "required": true,
+      "__meta": {
+        "name": "WI Zoom",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 353890,
+      "fileID": 3606828,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Crashes (Fabric)"
+      }
+    },
+    {
+      "projectID": 356643,
+      "fileID": 3569439,
+      "required": true,
+      "__meta": {
+        "name": "Auth Me",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 360438,
+      "fileID": 3590908,
+      "required": true,
+      "__meta": {
+        "name": "Lithium (Fabric)"
+      }
+    },
+    {
+      "projectID": 365727,
+      "fileID": 3470993,
+      "required": true,
+      "__meta": {
+        "name": "Dark Loading Screen"
+      }
+    },
+    {
+      "projectID": 366140,
+      "fileID": 3551560,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic View[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 374274,
+      "fileID": 2934596,
+      "required": true,
+      "__meta": {
+        "name": "Your Options Shall Be Respected (YOSBR)"
+      }
+    },
+    {
+      "projectID": 380393,
+      "fileID": 3512331,
+      "required": true,
+      "__meta": {
+        "name": "'Slight' Gui Modifications",
+        "dependencies": [
+          319057,
+          317121,
+          463113,
+          419697,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 381257,
+      "fileID": 3555013,
+      "required": true,
+      "__meta": {
+        "name": "CompleteConfig"
+      }
+    },
+    {
+      "projectID": 390027,
+      "fileID": 3568159,
+      "required": true,
+      "__meta": {
+        "name": "Hwyla Addon Horse Info",
+        "dependencies": [
+          440979
+        ]
+      }
+    },
+    {
+      "projectID": 391366,
+      "fileID": 3614154,
+      "required": true,
+      "__meta": {
+        "name": "Repurposed Structures (Fabric)",
+        "dependencies": [
+          306612,
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 391502,
+      "fileID": 3538150,
+      "required": true,
+      "__meta": {
+        "name": "Reload Audio Driver (RAD) [Fabric]"
+      }
+    },
+    {
+      "projectID": 392805,
+      "fileID": 3549604,
+      "required": true,
+      "__meta": {
+        "name": "CleanCut"
+      }
+    },
+    {
+      "projectID": 393442,
+      "fileID": 3541670,
+      "required": true,
+      "__meta": {
+        "name": "LambDynamicLights",
+        "dependencies": [
+          308702,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 393563,
+      "fileID": 3548709,
+      "required": true,
+      "__meta": {
+        "name": "Blur (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3605309,
+      "required": true,
+      "__meta": {
+        "name": "Sodium"
+      }
+    },
+    {
+      "projectID": 397510,
+      "fileID": 3613398,
+      "required": true,
+      "__meta": {
+        "name": "Carpet TIS Addition",
+        "dependencies": [
+          349239
+        ]
+      }
+    },
+    {
+      "projectID": 399798,
+      "fileID": 3573935,
+      "required": true,
+      "__meta": {
+        "name": "Item Model Fix (Fabric)"
+      }
+    },
+    {
+      "projectID": 400322,
+      "fileID": 3584355,
+      "required": true,
+      "__meta": {
+        "name": "LambdaBetterGrass",
+        "dependencies": [
+          308702,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 403815,
+      "fileID": 3543420,
+      "required": true,
+      "__meta": {
+        "name": "AdvancementInfo"
+      }
+    },
+    {
+      "projectID": 404400,
+      "fileID": 3456037,
+      "required": true,
+      "__meta": {
+        "name": "Don't Clear Chat History"
+      }
+    },
+    {
+      "projectID": 404870,
+      "fileID": 3542922,
+      "required": true,
+      "__meta": {
+        "name": "Fabrishot",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 408481,
+      "fileID": 3543238,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Capes",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 411557,
+      "fileID": 3543273,
+      "required": true,
+      "__meta": {
+        "name": "ToolTipFix"
+      }
+    },
+    {
+      "projectID": 415758,
+      "fileID": 3549723,
+      "required": true,
+      "__meta": {
+        "name": "Smooth Boot (Fabric)"
+      }
+    },
+    {
+      "projectID": 419697,
+      "fileID": 3587337,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 423254,
+      "fileID": 3509388,
+      "required": true,
+      "__meta": {
+        "name": "Cull Leaves",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 428912,
+      "fileID": 3559150,
+      "required": true,
+      "__meta": {
+        "name": "Krypton"
+      }
+    },
+    {
+      "projectID": 433518,
+      "fileID": 3209972,
+      "required": true,
+      "__meta": {
+        "name": "LazyDFU"
+      }
+    },
+    {
+      "projectID": 433760,
+      "fileID": 3523463,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Animations"
+      }
+    },
+    {
+      "projectID": 437443,
+      "fileID": 3559468,
+      "required": true,
+      "__meta": {
+        "name": "Better Sodium Video Settings Button"
+      }
+    },
+    {
+      "projectID": 437779,
+      "fileID": 3578820,
+      "required": true,
+      "__meta": {
+        "name": "Dimension Fix (Some Forge Patches Ported)"
+      }
+    },
+    {
+      "projectID": 440979,
+      "fileID": 3594970,
+      "required": true,
+      "__meta": {
+        "name": "WTHIT",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 447673,
+      "fileID": 3605328,
+      "required": true,
+      "__meta": {
+        "name": "Sodium Extra",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3523465,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 452046,
+      "fileID": 3557031,
+      "required": true,
+      "__meta": {
+        "name": "Enhanced Block Entities",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 452768,
+      "fileID": 3550935,
+      "required": true,
+      "__meta": {
+        "name": "No Fade"
+      }
+    },
+    {
+      "projectID": 455508,
+      "fileID": 3612857,
+      "required": true,
+      "__meta": {
+        "name": "Iris Shaders",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 456457,
+      "fileID": 3522488,
+      "required": true,
+      "__meta": {
+        "name": "Axes Are Weapons (Fabric/Forge)",
+        "dependencies": [
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 459496,
+      "fileID": 3606937,
+      "required": true,
+      "__meta": {
+        "name": "Indium",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 459857,
+      "fileID": 3550048,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Fabric)"
+      }
+    },
+    {
+      "projectID": 475358,
+      "fileID": 3556489,
+      "required": true,
+      "__meta": {
+        "name": "Better Mount HUD"
+      }
+    },
+    {
+      "projectID": 477078,
+      "fileID": 3561474,
+      "required": true,
+      "__meta": {
+        "name": "Custom Entity Models (CEM)"
+      }
+    },
+    {
+      "projectID": 488090,
+      "fileID": 3531347,
+      "required": true,
+      "__meta": {
+        "name": "MidnightLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495693,
+      "fileID": 3550299,
+      "required": true,
+      "__meta": {
+        "name": "Farsight[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 500525,
+      "fileID": 3606151,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Fabric Edition)",
+        "dependencies": [
+          306612,
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 508083,
+      "fileID": 3557163,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Render Distance",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 511319,
+      "fileID": 3596724,
+      "required": true,
+      "__meta": {
+        "name": "Reese's Sodium Options",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 513840,
+      "fileID": 3590993,
+      "required": true,
+      "__meta": {
+        "name": "FastOpenLinksAndFolders"
+      }
+    },
+    {
+      "projectID": 518319,
+      "fileID": 3545709,
+      "required": true,
+      "__meta": {
+        "name": "More Chat History"
+      }
+    },
+    {
+      "projectID": 521427,
+      "fileID": 3609263,
+      "required": true,
+      "__meta": {
+        "name": "CIT Resewn"
+      }
+    },
+    {
+      "projectID": 521480,
+      "fileID": 3541751,
+      "required": true,
+      "__meta": {
+        "name": "Skin Layers 3D (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 521594,
+      "fileID": 3523462,
+      "required": true,
+      "__meta": {
+        "name": "Wavey Capes"
+      }
+    },
+    {
+      "projectID": 521783,
+      "fileID": 3599857,
+      "required": true,
+      "__meta": {
+        "name": "Starlight (Fabric)"
+      }
+    },
+    {
+      "projectID": 527334,
+      "fileID": 3510259,
+      "required": true,
+      "__meta": {
+        "name": "Language Reload"
+      }
+    },
+    {
+      "projectID": 531351,
+      "fileID": 3549420,
+      "required": true,
+      "__meta": {
+        "name": "Continuity",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 533006,
+      "fileID": 3594396,
+      "required": true,
+      "__meta": {
+        "name": "Animatica",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 537079,
+      "fileID": 3523464,
+      "required": true,
+      "__meta": {
+        "name": "PaperDoll"
+      }
+    },
+    {
+      "projectID": 547692,
+      "fileID": 3549496,
+      "required": true,
+      "__meta": {
+        "name": "Client Tweaks (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 551520,
+      "fileID": 3598710,
+      "required": true,
+      "__meta": {
+        "name": "Better Fps - Render Distance[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 556408,
+      "fileID": 3607814,
+      "required": true,
+      "__meta": {
+        "name": "Sodium Shadowy Path Blocks",
+        "dependencies": [
+          394468
+        ]
+      }
+    },
+    {
+      "projectID": 560957,
+      "fileID": 3582452,
+      "required": true,
+      "__meta": {
+        "name": "TieFix"
+      }
+    },
+    {
+      "projectID": 563977,
+      "fileID": 3599769,
+      "required": true,
+      "__meta": {
+        "name": "Puzzle",
+        "dependencies": [
+          488090
+        ]
+      }
+    }
+  ]
+}
