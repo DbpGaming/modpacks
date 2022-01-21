@@ -221,6 +221,18 @@
       }
     },
     {
+      "projectID": 317856,
+      "fileID": 3586771,
+      "required": true,
+      "__meta": {
+        "name": "[Fabric] Expanded Storage",
+        "dependencies": [
+          530668,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 319057,
       "fileID": 3559638,
       "required": true,
@@ -919,6 +931,15 @@
       "required": true,
       "__meta": {
         "name": "Language Reload"
+      }
+    },
+    {
+      "projectID": 530668,
+      "fileID": 3591317,
+      "required": true,
+      "__meta": {
+        "name": "NinjaPhenix's Container Library",
+        "explicit": false
       }
     },
     {
