@@ -24,6 +24,14 @@
       }
     },
     {
+      "projectID": 225738,
+      "fileID": 3545921,
+      "required": true,
+      "__meta": {
+        "name": "MmmMmmMmmMmm (Target Dummy)"
+      }
+    },
+    {
       "projectID": 242064,
       "fileID": 3615858,
       "required": true,
@@ -100,6 +108,14 @@
       }
     },
     {
+      "projectID": 280510,
+      "fileID": 3615618,
+      "required": true,
+      "__meta": {
+        "name": "AttributeFix"
+      }
+    },
+    {
       "projectID": 303119,
       "fileID": 3615856,
       "required": true,
@@ -161,6 +177,17 @@
       "required": true,
       "__meta": {
         "name": "Borderless Mining"
+      }
+    },
+    {
+      "projectID": 312289,
+      "fileID": 3579286,
+      "required": true,
+      "__meta": {
+        "name": "Blockus",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -420,6 +447,19 @@
       }
     },
     {
+      "projectID": 395864,
+      "fileID": 3596522,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS (Fabric)",
+        "dependencies": [
+          306612,
+          419697,
+          416294
+        ]
+      }
+    },
+    {
       "projectID": 397510,
       "fileID": 3613398,
       "required": true,
@@ -506,6 +546,18 @@
       }
     },
     {
+      "projectID": 416294,
+      "fileID": 3604722,
+      "required": true,
+      "__meta": {
+        "name": "Rhino",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 419697,
       "fileID": 3587337,
       "required": true,
@@ -514,6 +566,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 420709,
+      "fileID": 3592089,
+      "required": true,
+      "__meta": {
+        "name": "Bits And Chisels"
       }
     },
     {
@@ -565,6 +625,60 @@
       "required": true,
       "__meta": {
         "name": "Dimension Fix (Some Forge Patches Ported)"
+      }
+    },
+    {
+      "projectID": 438495,
+      "fileID": 3598889,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          419697
+        ]
+      }
+    },
+    {
+      "projectID": 438496,
+      "fileID": 3596441,
+      "required": true,
+      "__meta": {
+        "name": "FTB Quests (Fabric)",
+        "dependencies": [
+          438500,
+          438497,
+          306612,
+          419697,
+          438495
+        ]
+      }
+    },
+    {
+      "projectID": 438497,
+      "fileID": 3596306,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          438495,
+          306612,
+          419697
+        ]
+      }
+    },
+    {
+      "projectID": 438500,
+      "fileID": 3596361,
+      "required": true,
+      "__meta": {
+        "name": "Item Filters (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          419697,
+          306612
+        ]
       }
     },
     {
@@ -642,6 +756,14 @@
       }
     },
     {
+      "projectID": 456956,
+      "fileID": 3606249,
+      "required": true,
+      "__meta": {
+        "name": "Chipped"
+      }
+    },
+    {
       "projectID": 459496,
       "fileID": 3606937,
       "required": true,
@@ -658,6 +780,20 @@
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
+      }
+    },
+    {
+      "projectID": 472657,
+      "fileID": 3616088,
+      "required": true,
+      "__meta": {
+        "name": "FTB Chunks (Fabric)",
+        "dependencies": [
+          419697,
+          306612,
+          438495,
+          438497
+        ]
       }
     },
     {
@@ -832,6 +968,14 @@
       "required": true,
       "__meta": {
         "name": "Better Fps - Render Distance[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 551763,
+      "fileID": 3578088,
+      "required": true,
+      "__meta": {
+        "name": "Chisel Refabricated"
       }
     },
     {
