@@ -24,11 +24,40 @@
       }
     },
     {
+      "projectID": 223794,
+      "fileID": 3609046,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 225738,
       "fileID": 3545921,
       "required": true,
       "__meta": {
         "name": "MmmMmmMmmMmm (Target Dummy)"
+      }
+    },
+    {
+      "projectID": 233564,
+      "fileID": 3597223,
+      "required": true,
+      "__meta": {
+        "name": "Tech Reborn",
+        "dependencies": [
+          237903
+        ]
+      }
+    },
+    {
+      "projectID": 237903,
+      "fileID": 3597224,
+      "required": true,
+      "__meta": {
+        "name": "Reborn Core",
+        "explicit": false
       }
     },
     {
@@ -346,6 +375,18 @@
       }
     },
     {
+      "projectID": 373261,
+      "fileID": 3095961,
+      "required": true,
+      "__meta": {
+        "name": "Auto Config Updated API",
+        "explicit": false,
+        "dependencies": [
+          319057
+        ]
+      }
+    },
+    {
       "projectID": 374274,
       "fileID": 2934596,
       "required": true,
@@ -377,6 +418,18 @@
       }
     },
     {
+      "projectID": 386892,
+      "fileID": 3578788,
+      "required": true,
+      "__meta": {
+        "name": "Iron Jetpacks Fabric",
+        "dependencies": [
+          419697,
+          373261
+        ]
+      }
+    },
+    {
       "projectID": 390027,
       "fileID": 3568159,
       "required": true,
@@ -405,6 +458,18 @@
       "required": true,
       "__meta": {
         "name": "Reload Audio Driver (RAD) [Fabric]"
+      }
+    },
+    {
+      "projectID": 391708,
+      "fileID": 3599880,
+      "required": true,
+      "__meta": {
+        "name": "Industrial Revolution",
+        "dependencies": [
+          308769,
+          306612
+        ]
       }
     },
     {
@@ -471,6 +536,18 @@
       }
     },
     {
+      "projectID": 398614,
+      "fileID": 3561305,
+      "required": true,
+      "__meta": {
+        "name": "Deep Mob Learning: Refabricated",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 399798,
       "fileID": 3573935,
       "required": true,
@@ -513,6 +590,18 @@
       "__meta": {
         "name": "Fabrishot",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 405388,
+      "fileID": 3595287,
+      "required": true,
+      "__meta": {
+        "name": "Modern Industrialization",
+        "dependencies": [
+          310111,
           306612
         ]
       }
@@ -783,6 +872,27 @@
       }
     },
     {
+      "projectID": 459929,
+      "fileID": 3609572,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2 Wireless Terminals",
+        "dependencies": [
+          306612,
+          223794,
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 462672,
+      "fileID": 3594650,
+      "required": true,
+      "__meta": {
+        "name": "CC: Restitched"
+      }
+    },
+    {
       "projectID": 472657,
       "fileID": 3616088,
       "required": true,
@@ -855,6 +965,19 @@
       }
     },
     {
+      "projectID": 508931,
+      "fileID": 3567282,
+      "required": true,
+      "__meta": {
+        "name": "Deep Mob Learning: Simulacrum",
+        "dependencies": [
+          398614,
+          306612,
+          319057
+        ]
+      }
+    },
+    {
       "projectID": 511319,
       "fileID": 3596724,
       "required": true,
@@ -871,6 +994,17 @@
       "required": true,
       "__meta": {
         "name": "FastOpenLinksAndFolders"
+      }
+    },
+    {
+      "projectID": 515365,
+      "fileID": 3580648,
+      "required": true,
+      "__meta": {
+        "name": "Sync (Fabric)",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
