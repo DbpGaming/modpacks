@@ -618,14 +618,6 @@
       }
     },
     {
-      "projectID": 404400,
-      "fileID": 3456037,
-      "required": true,
-      "__meta": {
-        "name": "Don't Clear Chat History"
-      }
-    },
-    {
       "projectID": 404870,
       "fileID": 3542922,
       "required": true,
