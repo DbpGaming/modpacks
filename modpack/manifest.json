@@ -860,6 +860,18 @@
       }
     },
     {
+      "projectID": 504045,
+      "fileID": 3545041,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS Extras",
+        "dependencies": [
+          310111,
+          395864
+        ]
+      }
+    },
+    {
       "projectID": 508083,
       "fileID": 3557163,
       "required": true,
