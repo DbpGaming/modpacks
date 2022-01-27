@@ -314,6 +314,15 @@
       }
     },
     {
+      "projectID": 341284,
+      "fileID": 3542826,
+      "required": true,
+      "__meta": {
+        "name": "Trinkets (Fabric)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 349239,
       "fileID": 3613878,
       "required": true,
@@ -505,6 +514,15 @@
       }
     },
     {
+      "projectID": 393236,
+      "fileID": 3594392,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli (Fabric)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 393442,
       "fileID": 3541670,
       "required": true,
@@ -687,6 +705,19 @@
       "required": true,
       "__meta": {
         "name": "Bits And Chisels"
+      }
+    },
+    {
+      "projectID": 421839,
+      "fileID": 3578081,
+      "required": true,
+      "__meta": {
+        "name": "Botania (Fabric)",
+        "dependencies": [
+          393236,
+          341284,
+          306612
+        ]
       }
     },
     {
