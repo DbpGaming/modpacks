@@ -1177,6 +1177,14 @@
       }
     },
     {
+      "projectID": 552176,
+      "fileID": 3550743,
+      "required": true,
+      "__meta": {
+        "name": "Amplified Nether"
+      }
+    },
+    {
       "projectID": 556408,
       "fileID": 3607814,
       "required": true,
