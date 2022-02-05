@@ -1666,6 +1666,14 @@
       }
     },
     {
+      "projectID": 546841,
+      "fileID": 3570785,
+      "required": true,
+      "__meta": {
+        "name": "No Null Processors"
+      }
+    },
+    {
       "projectID": 547692,
       "fileID": 3549496,
       "required": true,
@@ -1825,6 +1833,14 @@
           415438,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 560323,
+      "fileID": 3618462,
+      "required": true,
+      "__meta": {
+        "name": "Feature NBT Deadlock Be Gone"
       }
     },
     {
