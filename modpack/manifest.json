@@ -36,7 +36,7 @@
     },
     {
       "projectID": 248787,
-      "fileID": 3544502,
+      "fileID": 3626708,
       "required": true,
       "__meta": {
         "name": "AppleSkin",
@@ -47,7 +47,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3599013,
+      "fileID": 3627069,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -55,7 +55,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3575673,
+      "fileID": 3616323,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -71,7 +71,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 3613286,
+      "fileID": 3630504,
       "required": true,
       "__meta": {
         "name": "Xaero's Minimap",
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 303119,
-      "fileID": 3615856,
+      "fileID": 3630909,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -109,7 +109,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3613749,
+      "fileID": 3634318,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -144,7 +144,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3611115,
+      "fileID": 3637406,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -184,7 +184,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 3613296,
+      "fileID": 3626670,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map",
@@ -328,7 +328,7 @@
     },
     {
       "projectID": 380393,
-      "fileID": 3512331,
+      "fileID": 3630010,
       "required": true,
       "__meta": {
         "name": "'Slight' Gui Modifications",
@@ -362,7 +362,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 3614154,
+      "fileID": 3636954,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Fabric)",
@@ -421,7 +421,7 @@
     },
     {
       "projectID": 397510,
-      "fileID": 3613398,
+      "fileID": 3625325,
       "required": true,
       "__meta": {
         "name": "Carpet TIS Addition",
@@ -460,7 +460,7 @@
     },
     {
       "projectID": 404870,
-      "fileID": 3542922,
+      "fileID": 3637125,
       "required": true,
       "__meta": {
         "name": "Fabrishot",
@@ -499,7 +499,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3587337,
+      "fileID": 3636539,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -561,7 +561,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3594970,
+      "fileID": 3635138,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -572,7 +572,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 3605328,
+      "fileID": 3623805,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -583,7 +583,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 3523465,
+      "fileID": 3635674,
       "required": true,
       "__meta": {
         "name": "Entity Culling Fabric/Forge",
@@ -646,7 +646,7 @@
     },
     {
       "projectID": 459857,
-      "fileID": 3550048,
+      "fileID": 3637902,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
@@ -654,7 +654,7 @@
     },
     {
       "projectID": 475358,
-      "fileID": 3556489,
+      "fileID": 3637536,
       "required": true,
       "__meta": {
         "name": "Better Mount HUD"
@@ -712,7 +712,7 @@
     },
     {
       "projectID": 511319,
-      "fileID": 3596724,
+      "fileID": 3622245,
       "required": true,
       "__meta": {
         "name": "Reese's Sodium Options",
@@ -723,7 +723,7 @@
     },
     {
       "projectID": 513840,
-      "fileID": 3590993,
+      "fileID": 3629291,
       "required": true,
       "__meta": {
         "name": "FastOpenLinksAndFolders"
@@ -747,7 +747,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 3541751,
+      "fileID": 3635467,
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
@@ -839,7 +839,7 @@
     },
     {
       "projectID": 560957,
-      "fileID": 3582452,
+      "fileID": 3625238,
       "required": true,
       "__meta": {
         "name": "TieFix"
