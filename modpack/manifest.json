@@ -541,7 +541,7 @@
     },
     {
       "projectID": 395864,
-      "fileID": 3596522,
+      "fileID": 3634488,
       "required": true,
       "__meta": {
         "name": "KubeJS (Fabric)",
@@ -632,7 +632,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3604722,
+      "fileID": 3632159,
       "required": true,
       "__meta": {
         "name": "Rhino",
@@ -726,7 +726,7 @@
     },
     {
       "projectID": 438496,
-      "fileID": 3596441,
+      "fileID": 3627554,
       "required": true,
       "__meta": {
         "name": "FTB Quests (Fabric)",
@@ -877,7 +877,7 @@
     },
     {
       "projectID": 472657,
-      "fileID": 3616088,
+      "fileID": 3627153,
       "required": true,
       "__meta": {
         "name": "FTB Chunks (Fabric)",
