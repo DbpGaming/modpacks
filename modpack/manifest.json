@@ -25,7 +25,7 @@
     },
     {
       "projectID": 223794,
-      "fileID": 3609046,
+      "fileID": 3630573,
       "required": true,
       "__meta": {
         "name": "Applied Energistics 2",
@@ -42,7 +42,7 @@
     },
     {
       "projectID": 233564,
-      "fileID": 3597223,
+      "fileID": 3635132,
       "required": true,
       "__meta": {
         "name": "Tech Reborn",
@@ -53,7 +53,7 @@
     },
     {
       "projectID": 237903,
-      "fileID": 3597224,
+      "fileID": 3635133,
       "required": true,
       "__meta": {
         "name": "Reborn Core",
@@ -326,7 +326,7 @@
     },
     {
       "projectID": 341284,
-      "fileID": 3542826,
+      "fileID": 3629559,
       "required": true,
       "__meta": {
         "name": "Trinkets (Fabric)",
@@ -988,7 +988,7 @@
     },
     {
       "projectID": 459929,
-      "fileID": 3609572,
+      "fileID": 3636709,
       "required": true,
       "__meta": {
         "name": "Applied Energistics 2 Wireless Terminals",
@@ -1001,7 +1001,7 @@
     },
     {
       "projectID": 462672,
-      "fileID": 3594650,
+      "fileID": 3622569,
       "required": true,
       "__meta": {
         "name": "CC: Restitched"
