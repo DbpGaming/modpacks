@@ -210,6 +210,17 @@
       }
     },
     {
+      "projectID": 317756,
+      "fileID": 3575049,
+      "required": true,
+      "__meta": {
+        "name": "Vanilla Hammers",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 317780,
       "fileID": 3626670,
       "required": true,
@@ -285,6 +296,14 @@
       }
     },
     {
+      "projectID": 341772,
+      "fileID": 3612783,
+      "required": true,
+      "__meta": {
+        "name": "Vanilla Excavators"
+      }
+    },
+    {
       "projectID": 349239,
       "fileID": 3613878,
       "required": true,
@@ -315,11 +334,30 @@
       }
     },
     {
+      "projectID": 351973,
+      "fileID": 3574980,
+      "required": true,
+      "__meta": {
+        "name": "Snowdrift"
+      }
+    },
+    {
       "projectID": 353890,
       "fileID": 3606828,
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Fabric)"
+      }
+    },
+    {
+      "projectID": 355914,
+      "fileID": 3578809,
+      "required": true,
+      "__meta": {
+        "name": "Improved Stations (Fabric)",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -381,6 +419,18 @@
       }
     },
     {
+      "projectID": 380649,
+      "fileID": 3637448,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Shield Lib",
+        "explicit": false,
+        "dependencies": [
+          319057
+        ]
+      }
+    },
+    {
       "projectID": 381257,
       "fileID": 3555013,
       "required": true,
@@ -397,6 +447,17 @@
         "dependencies": [
           306612,
           308769
+        ]
+      }
+    },
+    {
+      "projectID": 389010,
+      "fileID": 3571515,
+      "required": true,
+      "__meta": {
+        "name": "Parry",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -437,6 +498,14 @@
       "required": true,
       "__meta": {
         "name": "CleanCut"
+      }
+    },
+    {
+      "projectID": 393236,
+      "fileID": 3630726,
+      "required": true,
+      "__meta": {
+        "name": "Patchouli (Fabric)"
       }
     },
     {
@@ -709,6 +778,14 @@
       }
     },
     {
+      "projectID": 442268,
+      "fileID": 3592002,
+      "required": true,
+      "__meta": {
+        "name": "Golden Hoppers"
+      }
+    },
+    {
       "projectID": 447673,
       "fileID": 3623805,
       "required": true,
@@ -821,6 +898,17 @@
       }
     },
     {
+      "projectID": 476080,
+      "fileID": 3575523,
+      "required": true,
+      "__meta": {
+        "name": "Basic AIOTs",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 477078,
       "fileID": 3561474,
       "required": true,
@@ -834,6 +922,17 @@
       "required": true,
       "__meta": {
         "name": "MidnightLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 492111,
+      "fileID": 3577740,
+      "required": true,
+      "__meta": {
+        "name": "Colored Lights (Fabric)",
         "dependencies": [
           306612
         ]
@@ -880,6 +979,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 510262,
+      "fileID": 3612819,
+      "required": true,
+      "__meta": {
+        "name": "XP Obelisk"
       }
     },
     {
@@ -981,11 +1088,34 @@
       }
     },
     {
+      "projectID": 536984,
+      "fileID": 3600965,
+      "required": true,
+      "__meta": {
+        "name": "St'ructure Tools",
+        "dependencies": [
+          319057,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 537079,
       "fileID": 3523464,
       "required": true,
       "__meta": {
         "name": "PaperDoll"
+      }
+    },
+    {
+      "projectID": 538011,
+      "fileID": 3594300,
+      "required": true,
+      "__meta": {
+        "name": "Basic Shields [Fabric]",
+        "dependencies": [
+          380649
+        ]
       }
     },
     {
@@ -995,6 +1125,40 @@
       "__meta": {
         "name": "Client Tweaks (Fabric Edition)",
         "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547695,
+      "fileID": 3549467,
+      "required": true,
+      "__meta": {
+        "name": "KleeSlabs (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547696,
+      "fileID": 3549514,
+      "required": true,
+      "__meta": {
+        "name": "NetherPortalFix (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547699,
+      "fileID": 3550139,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Essentials (Fabric Edition)",
+        "dependencies": [
+          500525,
           500525
         ]
       }
