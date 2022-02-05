@@ -91,6 +91,14 @@
       }
     },
     {
+      "projectID": 250419,
+      "fileID": 3636900,
+      "required": true,
+      "__meta": {
+        "name": "Enchantment Descriptions"
+      }
+    },
+    {
       "projectID": 256717,
       "fileID": 3616323,
       "required": true,
@@ -153,6 +161,18 @@
       }
     },
     {
+      "projectID": 303557,
+      "fileID": 3633571,
+      "required": true,
+      "__meta": {
+        "name": "Better Animals Plus",
+        "dependencies": [
+          419697,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 306612,
       "fileID": 3634318,
       "required": true,
@@ -206,6 +226,18 @@
       "required": true,
       "__meta": {
         "name": "Borderless Mining"
+      }
+    },
+    {
+      "projectID": 311377,
+      "fileID": 3636290,
+      "required": true,
+      "__meta": {
+        "name": "BetterNether",
+        "dependencies": [
+          306612,
+          495191
+        ]
       }
     },
     {
@@ -278,6 +310,41 @@
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric)"
+      }
+    },
+    {
+      "projectID": 319596,
+      "fileID": 3577068,
+      "required": true,
+      "__meta": {
+        "name": "Pehkui",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 320215,
+      "fileID": 3609858,
+      "required": true,
+      "__meta": {
+        "name": "Adorn",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 321014,
+      "fileID": 3582861,
+      "required": true,
+      "__meta": {
+        "name": "Redstone Bits",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -372,6 +439,17 @@
       }
     },
     {
+      "projectID": 349938,
+      "fileID": 3543409,
+      "required": true,
+      "__meta": {
+        "name": "BLAST 💣",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 351973,
       "fileID": 3574980,
       "required": true,
@@ -454,6 +532,14 @@
       }
     },
     {
+      "projectID": 375969,
+      "fileID": 3554382,
+      "required": true,
+      "__meta": {
+        "name": "Wolves With Armor"
+      }
+    },
+    {
       "projectID": 380393,
       "fileID": 3630010,
       "required": true,
@@ -489,6 +575,14 @@
       }
     },
     {
+      "projectID": 382694,
+      "fileID": 3577332,
+      "required": true,
+      "__meta": {
+        "name": "Staff of Building"
+      }
+    },
+    {
       "projectID": 386892,
       "fileID": 3578788,
       "required": true,
@@ -497,6 +591,18 @@
         "dependencies": [
           419697,
           373261
+        ]
+      }
+    },
+    {
+      "projectID": 388172,
+      "fileID": 3629662,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "explicit": false,
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -531,6 +637,18 @@
         "name": "Hwyla Addon Horse Info",
         "dependencies": [
           440979
+        ]
+      }
+    },
+    {
+      "projectID": 390991,
+      "fileID": 3595812,
+      "required": true,
+      "__meta": {
+        "name": "AdventureZ",
+        "dependencies": [
+          319057,
+          306612
         ]
       }
     },
@@ -606,11 +724,37 @@
       }
     },
     {
+      "projectID": 393714,
+      "fileID": 3569019,
+      "required": true,
+      "__meta": {
+        "name": "Crooked Crooks",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 394468,
       "fileID": 3605309,
       "required": true,
       "__meta": {
         "name": "Sodium"
+      }
+    },
+    {
+      "projectID": 394915,
+      "fileID": 3637935,
+      "required": true,
+      "__meta": {
+        "name": "Bewitchment",
+        "dependencies": [
+          319596,
+          319057,
+          341284,
+          393236,
+          306612
+        ]
       }
     },
     {
@@ -646,6 +790,30 @@
         "dependencies": [
           308769,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 399309,
+      "fileID": 3575028,
+      "required": true,
+      "__meta": {
+        "name": "Dawn API",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 399648,
+      "fileID": 3633936,
+      "required": true,
+      "__meta": {
+        "name": "Promenade",
+        "dependencies": [
+          306612,
+          399309
         ]
       }
     },
@@ -713,11 +881,39 @@
       }
     },
     {
+      "projectID": 410902,
+      "fileID": 3575744,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Waystones"
+      }
+    },
+    {
       "projectID": 411557,
       "fileID": 3543273,
       "required": true,
       "__meta": {
         "name": "ToolTipFix"
+      }
+    },
+    {
+      "projectID": 413596,
+      "fileID": 3636291,
+      "required": true,
+      "__meta": {
+        "name": "BetterEnd",
+        "dependencies": [
+          306612,
+          495191
+        ]
+      }
+    },
+    {
+      "projectID": 415438,
+      "fileID": 3590391,
+      "required": true,
+      "__meta": {
+        "name": "Croptopia [FABRIC/FORGE]"
       }
     },
     {
@@ -773,6 +969,19 @@
       }
     },
     {
+      "projectID": 422310,
+      "fileID": 3615193,
+      "required": true,
+      "__meta": {
+        "name": "Conjuring [Fabric/Forge]",
+        "dependencies": [
+          532610,
+          393236,
+          319057
+        ]
+      }
+    },
+    {
       "projectID": 423254,
       "fileID": 3509388,
       "required": true,
@@ -789,6 +998,14 @@
       "required": true,
       "__meta": {
         "name": "Krypton"
+      }
+    },
+    {
+      "projectID": 431135,
+      "fileID": 3561290,
+      "required": true,
+      "__meta": {
+        "name": "Go Fish"
       }
     },
     {
@@ -919,6 +1136,18 @@
       }
     },
     {
+      "projectID": 451554,
+      "fileID": 3545028,
+      "required": true,
+      "__meta": {
+        "name": "Lifts",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 452046,
       "fileID": 3557031,
       "required": true,
@@ -1008,6 +1237,30 @@
       }
     },
     {
+      "projectID": 465336,
+      "fileID": 3540934,
+      "required": true,
+      "__meta": {
+        "name": "Terrarian Slimes",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 470149,
+      "fileID": 3541351,
+      "required": true,
+      "__meta": {
+        "name": "Entity Banners",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 472657,
       "fileID": 3627153,
       "required": true,
@@ -1030,6 +1283,18 @@
       }
     },
     {
+      "projectID": 475623,
+      "fileID": 3544998,
+      "required": true,
+      "__meta": {
+        "name": "Extra Generators",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 476080,
       "fileID": 3575523,
       "required": true,
@@ -1049,6 +1314,39 @@
       }
     },
     {
+      "projectID": 478843,
+      "fileID": 3543408,
+      "required": true,
+      "__meta": {
+        "name": "Impaled 🔱",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 482834,
+      "fileID": 3559302,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight [Fabric]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 483166,
+      "fileID": 3571914,
+      "required": true,
+      "__meta": {
+        "name": "Incantationem",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 488090,
       "fileID": 3531347,
       "required": true,
@@ -1060,11 +1358,35 @@
       }
     },
     {
+      "projectID": 490812,
+      "fileID": 3609545,
+      "required": true,
+      "__meta": {
+        "name": "Artifality",
+        "dependencies": [
+          341284,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 492111,
       "fileID": 3577740,
       "required": true,
       "__meta": {
         "name": "Colored Lights (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495191,
+      "fileID": 3637567,
+      "required": true,
+      "__meta": {
+        "name": "BCLib",
+        "explicit": false,
         "dependencies": [
           306612
         ]
@@ -1103,11 +1425,33 @@
       }
     },
     {
+      "projectID": 506759,
+      "fileID": 3550149,
+      "required": true,
+      "__meta": {
+        "name": "Fertilization (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
       "projectID": 508083,
       "fileID": 3557163,
       "required": true,
       "__meta": {
         "name": "Dynamic Render Distance",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 508556,
+      "fileID": 3555370,
+      "required": true,
+      "__meta": {
+        "name": "Additional Additions",
         "dependencies": [
           306612
         ]
@@ -1154,6 +1498,17 @@
       }
     },
     {
+      "projectID": 514468,
+      "fileID": 3630699,
+      "required": true,
+      "__meta": {
+        "name": "The Graveyard (FABRIC)",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
       "projectID": 515365,
       "fileID": 3580648,
       "required": true,
@@ -1162,6 +1517,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 517119,
+      "fileID": 3575314,
+      "required": true,
+      "__meta": {
+        "name": "Drink Beer (Fabric)"
       }
     },
     {
@@ -1233,6 +1596,15 @@
       }
     },
     {
+      "projectID": 532610,
+      "fileID": 3629599,
+      "required": true,
+      "__meta": {
+        "name": "oωo (owo-lib)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 533006,
       "fileID": 3594396,
       "required": true,
@@ -1241,6 +1613,25 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 534029,
+      "fileID": 3621585,
+      "required": true,
+      "__meta": {
+        "name": "Magitek Mechs",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 535541,
+      "fileID": 3574647,
+      "required": true,
+      "__meta": {
+        "name": "Chalk (Fabric)"
       }
     },
     {
@@ -1320,6 +1711,17 @@
       }
     },
     {
+      "projectID": 547700,
+      "fileID": 3550142,
+      "required": true,
+      "__meta": {
+        "name": "Pretty Beaches (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
       "projectID": 551520,
       "fileID": 3598710,
       "required": true,
@@ -1344,6 +1746,51 @@
       }
     },
     {
+      "projectID": 552628,
+      "fileID": 3616152,
+      "required": true,
+      "__meta": {
+        "name": "Winterly",
+        "dependencies": [
+          341284,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 554340,
+      "fileID": 3602069,
+      "required": true,
+      "__meta": {
+        "name": "Catwalks Inc.",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 554586,
+      "fileID": 3606206,
+      "required": true,
+      "__meta": {
+        "name": "Farming for Blockheads (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 554587,
+      "fileID": 3555384,
+      "required": true,
+      "__meta": {
+        "name": "Hardcore Revival (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
       "projectID": 556408,
       "fileID": 3607814,
       "required": true,
@@ -1351,6 +1798,32 @@
         "name": "Sodium Shadowy Path Blocks",
         "dependencies": [
           394468
+        ]
+      }
+    },
+    {
+      "projectID": 556967,
+      "fileID": 3631776,
+      "required": true,
+      "__meta": {
+        "name": "Spectrum",
+        "dependencies": [
+          532610,
+          319057,
+          393236,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 560262,
+      "fileID": 3579956,
+      "required": true,
+      "__meta": {
+        "name": "Croptopia's Chocolaterie",
+        "dependencies": [
+          415438,
+          306612
         ]
       }
     },
