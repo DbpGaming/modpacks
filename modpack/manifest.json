@@ -3,7 +3,7 @@
     "version": "1.18.1",
     "modLoaders": [
       {
-        "id": "fabric-0.12.12",
+        "id": "fabric-0.13.1",
         "primary": true
       }
     ]
@@ -73,7 +73,7 @@
     },
     {
       "projectID": 248787,
-      "fileID": 3544502,
+      "fileID": 3626708,
       "required": true,
       "__meta": {
         "name": "AppleSkin",
@@ -84,7 +84,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3599013,
+      "fileID": 3627069,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -92,7 +92,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3575673,
+      "fileID": 3616323,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -108,7 +108,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 3613286,
+      "fileID": 3630504,
       "required": true,
       "__meta": {
         "name": "Xaero's Minimap",
@@ -146,7 +146,7 @@
     },
     {
       "projectID": 303119,
-      "fileID": 3615856,
+      "fileID": 3630909,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -154,7 +154,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3613749,
+      "fileID": 3634318,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -189,7 +189,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3611115,
+      "fileID": 3637406,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -239,8 +239,19 @@
       }
     },
     {
+      "projectID": 317756,
+      "fileID": 3575049,
+      "required": true,
+      "__meta": {
+        "name": "Vanilla Hammers",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 317780,
-      "fileID": 3613296,
+      "fileID": 3626670,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map",
@@ -323,6 +334,14 @@
       }
     },
     {
+      "projectID": 341772,
+      "fileID": 3612783,
+      "required": true,
+      "__meta": {
+        "name": "Vanilla Excavators"
+      }
+    },
+    {
       "projectID": 349239,
       "fileID": 3613878,
       "required": true,
@@ -353,11 +372,30 @@
       }
     },
     {
+      "projectID": 351973,
+      "fileID": 3574980,
+      "required": true,
+      "__meta": {
+        "name": "Snowdrift"
+      }
+    },
+    {
       "projectID": 353890,
       "fileID": 3606828,
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Fabric)"
+      }
+    },
+    {
+      "projectID": 355914,
+      "fileID": 3578809,
+      "required": true,
+      "__meta": {
+        "name": "Improved Stations (Fabric)",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -417,7 +455,7 @@
     },
     {
       "projectID": 380393,
-      "fileID": 3512331,
+      "fileID": 3630010,
       "required": true,
       "__meta": {
         "name": "'Slight' Gui Modifications",
@@ -427,6 +465,18 @@
           463113,
           419697,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 380649,
+      "fileID": 3637448,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Shield Lib",
+        "explicit": false,
+        "dependencies": [
+          319057
         ]
       }
     },
@@ -463,6 +513,17 @@
       }
     },
     {
+      "projectID": 389010,
+      "fileID": 3571515,
+      "required": true,
+      "__meta": {
+        "name": "Parry",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 390027,
       "fileID": 3568159,
       "required": true,
@@ -475,7 +536,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 3614154,
+      "fileID": 3636954,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Fabric)",
@@ -515,11 +576,10 @@
     },
     {
       "projectID": 393236,
-      "fileID": 3594392,
+      "fileID": 3630726,
       "required": true,
       "__meta": {
-        "name": "Patchouli (Fabric)",
-        "explicit": false
+        "name": "Patchouli (Fabric)"
       }
     },
     {
@@ -555,7 +615,7 @@
     },
     {
       "projectID": 395864,
-      "fileID": 3596522,
+      "fileID": 3634488,
       "required": true,
       "__meta": {
         "name": "KubeJS (Fabric)",
@@ -568,7 +628,7 @@
     },
     {
       "projectID": 397510,
-      "fileID": 3613398,
+      "fileID": 3625325,
       "required": true,
       "__meta": {
         "name": "Carpet TIS Addition",
@@ -619,7 +679,7 @@
     },
     {
       "projectID": 404870,
-      "fileID": 3542922,
+      "fileID": 3637125,
       "required": true,
       "__meta": {
         "name": "Fabrishot",
@@ -670,7 +730,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3604722,
+      "fileID": 3632159,
       "required": true,
       "__meta": {
         "name": "Rhino",
@@ -682,7 +742,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3587337,
+      "fileID": 3636539,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -777,7 +837,7 @@
     },
     {
       "projectID": 438496,
-      "fileID": 3596441,
+      "fileID": 3627554,
       "required": true,
       "__meta": {
         "name": "FTB Quests (Fabric)",
@@ -819,7 +879,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3594970,
+      "fileID": 3635138,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -829,8 +889,16 @@
       }
     },
     {
+      "projectID": 442268,
+      "fileID": 3592002,
+      "required": true,
+      "__meta": {
+        "name": "Golden Hoppers"
+      }
+    },
+    {
       "projectID": 447673,
-      "fileID": 3605328,
+      "fileID": 3623805,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -841,7 +909,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 3523465,
+      "fileID": 3635674,
       "required": true,
       "__meta": {
         "name": "Entity Culling Fabric/Forge",
@@ -912,7 +980,7 @@
     },
     {
       "projectID": 459857,
-      "fileID": 3550048,
+      "fileID": 3637902,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
@@ -941,7 +1009,7 @@
     },
     {
       "projectID": 472657,
-      "fileID": 3616088,
+      "fileID": 3627153,
       "required": true,
       "__meta": {
         "name": "FTB Chunks (Fabric)",
@@ -955,10 +1023,21 @@
     },
     {
       "projectID": 475358,
-      "fileID": 3556489,
+      "fileID": 3637536,
       "required": true,
       "__meta": {
         "name": "Better Mount HUD"
+      }
+    },
+    {
+      "projectID": 476080,
+      "fileID": 3575523,
+      "required": true,
+      "__meta": {
+        "name": "Basic AIOTs",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -975,6 +1054,17 @@
       "required": true,
       "__meta": {
         "name": "MidnightLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 492111,
+      "fileID": 3577740,
+      "required": true,
+      "__meta": {
+        "name": "Colored Lights (Fabric)",
         "dependencies": [
           306612
         ]
@@ -1037,8 +1127,16 @@
       }
     },
     {
+      "projectID": 510262,
+      "fileID": 3612819,
+      "required": true,
+      "__meta": {
+        "name": "XP Obelisk"
+      }
+    },
+    {
       "projectID": 511319,
-      "fileID": 3596724,
+      "fileID": 3622245,
       "required": true,
       "__meta": {
         "name": "Reese's Sodium Options",
@@ -1049,7 +1147,7 @@
     },
     {
       "projectID": 513840,
-      "fileID": 3590993,
+      "fileID": 3629291,
       "required": true,
       "__meta": {
         "name": "FastOpenLinksAndFolders"
@@ -1084,7 +1182,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 3541751,
+      "fileID": 3635467,
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
@@ -1146,11 +1244,34 @@
       }
     },
     {
+      "projectID": 536984,
+      "fileID": 3600965,
+      "required": true,
+      "__meta": {
+        "name": "St'ructure Tools",
+        "dependencies": [
+          319057,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 537079,
       "fileID": 3523464,
       "required": true,
       "__meta": {
         "name": "PaperDoll"
+      }
+    },
+    {
+      "projectID": 538011,
+      "fileID": 3594300,
+      "required": true,
+      "__meta": {
+        "name": "Basic Shields [Fabric]",
+        "dependencies": [
+          380649
+        ]
       }
     },
     {
@@ -1160,6 +1281,40 @@
       "__meta": {
         "name": "Client Tweaks (Fabric Edition)",
         "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547695,
+      "fileID": 3549467,
+      "required": true,
+      "__meta": {
+        "name": "KleeSlabs (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547696,
+      "fileID": 3549514,
+      "required": true,
+      "__meta": {
+        "name": "NetherPortalFix (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547699,
+      "fileID": 3550139,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Essentials (Fabric Edition)",
+        "dependencies": [
+          500525,
           500525
         ]
       }
@@ -1201,7 +1356,7 @@
     },
     {
       "projectID": 560957,
-      "fileID": 3582452,
+      "fileID": 3625238,
       "required": true,
       "__meta": {
         "name": "TieFix"
