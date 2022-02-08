@@ -1362,17 +1362,6 @@
       }
     },
     {
-      "projectID": 492111,
-      "fileID": 3577740,
-      "required": true,
-      "__meta": {
-        "name": "Colored Lights (Fabric)",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 495191,
       "fileID": 3637567,
       "required": true,
