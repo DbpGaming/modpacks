@@ -209,7 +209,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3637406,
+      "fileID": 3638571,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -646,7 +646,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 3636954,
+      "fileID": 3639302,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Fabric)",
@@ -930,7 +930,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3636539,
+      "fileID": 3638626,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
