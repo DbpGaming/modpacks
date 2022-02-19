@@ -929,6 +929,17 @@
       }
     },
     {
+      "projectID": 418680,
+      "fileID": 3651309,
+      "required": true,
+      "__meta": {
+        "name": "Paradise Lost - The Aether Reborn",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 419697,
       "fileID": 3652981,
       "required": true,
