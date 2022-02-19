@@ -25,7 +25,7 @@
     },
     {
       "projectID": 223794,
-      "fileID": 3630573,
+      "fileID": 3646160,
       "required": true,
       "__meta": {
         "name": "Applied Energistics 2",
@@ -736,7 +736,7 @@
     },
     {
       "projectID": 394915,
-      "fileID": 3637935,
+      "fileID": 3648688,
       "required": true,
       "__meta": {
         "name": "Bewitchment",
@@ -850,7 +850,7 @@
     },
     {
       "projectID": 405388,
-      "fileID": 3595287,
+      "fileID": 3646911,
       "required": true,
       "__meta": {
         "name": "Modern Industrialization",
@@ -1209,7 +1209,7 @@
     },
     {
       "projectID": 459929,
-      "fileID": 3638494,
+      "fileID": 3646894,
       "required": true,
       "__meta": {
         "name": "Applied Energistics 2 Wireless Terminals",
@@ -1351,7 +1351,7 @@
     },
     {
       "projectID": 490812,
-      "fileID": 3609545,
+      "fileID": 3650925,
       "required": true,
       "__meta": {
         "name": "Artifality",
@@ -1363,7 +1363,7 @@
     },
     {
       "projectID": 495191,
-      "fileID": 3637567,
+      "fileID": 3650880,
       "required": true,
       "__meta": {
         "name": "BCLib",
@@ -1578,7 +1578,7 @@
     },
     {
       "projectID": 532610,
-      "fileID": 3629599,
+      "fileID": 3646495,
       "required": true,
       "__meta": {
         "name": "oωo (owo-lib)",
@@ -1736,7 +1736,7 @@
     },
     {
       "projectID": 552628,
-      "fileID": 3616152,
+      "fileID": 3652731,
       "required": true,
       "__meta": {
         "name": "Winterly",
@@ -1806,7 +1806,7 @@
     },
     {
       "projectID": 560262,
-      "fileID": 3579956,
+      "fileID": 3652164,
       "required": true,
       "__meta": {
         "name": "Croptopia's Chocolaterie",
