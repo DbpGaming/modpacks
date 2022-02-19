@@ -34,7 +34,7 @@
     },
     {
       "projectID": 225738,
-      "fileID": 3545921,
+      "fileID": 3642328,
       "required": true,
       "__meta": {
         "name": "MmmMmmMmmMmm (Target Dummy)"
@@ -84,7 +84,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3627069,
+      "fileID": 3648601,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -116,7 +116,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 3630504,
+      "fileID": 3647008,
       "required": true,
       "__meta": {
         "name": "Xaero's Minimap",
@@ -154,7 +154,7 @@
     },
     {
       "projectID": 303119,
-      "fileID": 3630909,
+      "fileID": 3647223,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -209,7 +209,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3638571,
+      "fileID": 3652704,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -283,7 +283,7 @@
     },
     {
       "projectID": 317780,
-      "fileID": 3626670,
+      "fileID": 3646988,
       "required": true,
       "__meta": {
         "name": "Xaero's World Map",
@@ -306,7 +306,7 @@
     },
     {
       "projectID": 319057,
-      "fileID": 3559638,
+      "fileID": 3641132,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric)"
@@ -429,7 +429,7 @@
     },
     {
       "projectID": 349630,
-      "fileID": 3557414,
+      "fileID": 3651178,
       "required": true,
       "__meta": {
         "name": "WI Zoom",
@@ -548,7 +548,7 @@
     },
     {
       "projectID": 380649,
-      "fileID": 3637448,
+      "fileID": 3650376,
       "required": true,
       "__meta": {
         "name": "Fabric Shield Lib",
@@ -646,7 +646,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 3639302,
+      "fileID": 3652966,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Fabric)",
@@ -751,7 +751,7 @@
     },
     {
       "projectID": 395864,
-      "fileID": 3634488,
+      "fileID": 3647100,
       "required": true,
       "__meta": {
         "name": "KubeJS (Fabric)",
@@ -764,7 +764,7 @@
     },
     {
       "projectID": 397510,
-      "fileID": 3625325,
+      "fileID": 3646095,
       "required": true,
       "__meta": {
         "name": "Carpet TIS Addition",
@@ -918,7 +918,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3632159,
+      "fileID": 3647780,
       "required": true,
       "__meta": {
         "name": "Rhino",
@@ -930,7 +930,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3638626,
+      "fileID": 3652981,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -1107,7 +1107,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 3623805,
+      "fileID": 3652095,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -1118,7 +1118,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 3635674,
+      "fileID": 3642143,
       "required": true,
       "__meta": {
         "name": "Entity Culling Fabric/Forge",
@@ -1201,7 +1201,7 @@
     },
     {
       "projectID": 459857,
-      "fileID": 3638441,
+      "fileID": 3652642,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
@@ -1453,7 +1453,7 @@
     },
     {
       "projectID": 510262,
-      "fileID": 3612819,
+      "fileID": 3642569,
       "required": true,
       "__meta": {
         "name": "XP Obelisk"
@@ -1550,7 +1550,7 @@
     },
     {
       "projectID": 527334,
-      "fileID": 3510259,
+      "fileID": 3641052,
       "required": true,
       "__meta": {
         "name": "Language Reload"
@@ -1558,7 +1558,7 @@
     },
     {
       "projectID": 530668,
-      "fileID": 3591317,
+      "fileID": 3649305,
       "required": true,
       "__meta": {
         "name": "NinjaPhenix's Container Library",
