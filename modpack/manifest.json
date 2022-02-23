@@ -571,6 +571,14 @@
       }
     },
     {
+      "projectID": 447651,
+      "fileID": 3648255,
+      "required": true,
+      "__meta": {
+        "name": "HUDTweaks"
+      }
+    },
+    {
       "projectID": 447673,
       "fileID": 3652095,
       "required": true,
@@ -669,6 +677,19 @@
       }
     },
     {
+      "projectID": 486981,
+      "fileID": 3600867,
+      "required": true,
+      "__meta": {
+        "name": "Neutral Animals",
+        "dependencies": [
+          308769,
+          319057,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 488090,
       "fileID": 3657092,
       "required": true,
@@ -727,6 +748,14 @@
       "required": true,
       "__meta": {
         "name": "FastOpenLinksAndFolders"
+      }
+    },
+    {
+      "projectID": 514625,
+      "fileID": 3655358,
+      "required": true,
+      "__meta": {
+        "name": "Fabulous Clouds [FABRIC]"
       }
     },
     {
@@ -819,6 +848,14 @@
       }
     },
     {
+      "projectID": 550644,
+      "fileID": 3560024,
+      "required": true,
+      "__meta": {
+        "name": "Armor Chroma for Fabric"
+      }
+    },
+    {
       "projectID": 551520,
       "fileID": 3656588,
       "required": true,
@@ -854,6 +891,26 @@
         "dependencies": [
           488090
         ]
+      }
+    },
+    {
+      "projectID": 568059,
+      "fileID": 3609057,
+      "required": true,
+      "__meta": {
+        "name": "Restock",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 570368,
+      "fileID": 3642895,
+      "required": true,
+      "__meta": {
+        "name": "Raised"
       }
     }
   ]
