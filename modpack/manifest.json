@@ -504,6 +504,31 @@
       }
     },
     {
+      "projectID": 368765,
+      "fileID": 3656160,
+      "required": true,
+      "__meta": {
+        "name": "MCDoom",
+        "dependencies": [
+          341284,
+          388172,
+          319057,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 373138,
+      "fileID": 3613521,
+      "required": true,
+      "__meta": {
+        "name": "Campanion",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 373261,
       "fileID": 3095961,
       "required": true,
@@ -1036,6 +1061,14 @@
       }
     },
     {
+      "projectID": 433862,
+      "fileID": 3641757,
+      "required": true,
+      "__meta": {
+        "name": "Architect's Palette"
+      }
+    },
+    {
       "projectID": 437443,
       "fileID": 3559468,
       "required": true,
@@ -1197,6 +1230,19 @@
       }
     },
     {
+      "projectID": 456151,
+      "fileID": 3631572,
+      "required": true,
+      "__meta": {
+        "name": "Things [Fabric]",
+        "dependencies": [
+          341284,
+          319057,
+          532610
+        ]
+      }
+    },
+    {
       "projectID": 456457,
       "fileID": 3522488,
       "required": true,
@@ -1291,6 +1337,14 @@
           438495,
           438497
         ]
+      }
+    },
+    {
+      "projectID": 472772,
+      "fileID": 3619672,
+      "required": true,
+      "__meta": {
+        "name": "DashLoader"
       }
     },
     {
@@ -1530,6 +1584,14 @@
       }
     },
     {
+      "projectID": 514625,
+      "fileID": 3655358,
+      "required": true,
+      "__meta": {
+        "name": "Fabulous Clouds [FABRIC]"
+      }
+    },
+    {
       "projectID": 515365,
       "fileID": 3580648,
       "required": true,
@@ -1546,14 +1608,6 @@
       "required": true,
       "__meta": {
         "name": "Drink Beer (Fabric)"
-      }
-    },
-    {
-      "projectID": 514625,
-      "fileID": 3655358,
-      "required": true,
-      "__meta": {
-        "name": "Fabulous Clouds [FABRIC]"
       }
     },
     {
@@ -1861,18 +1915,6 @@
       }
     },
     {
-      "projectID": 560262,
-      "fileID": 3652164,
-      "required": true,
-      "__meta": {
-        "name": "Croptopia's Chocolaterie",
-        "dependencies": [
-          415438,
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 557743,
       "fileID": 3578519,
       "required": true,
@@ -1893,14 +1935,6 @@
       }
     },
     {
-      "projectID": 560323,
-      "fileID": 3618462,
-      "required": true,
-      "__meta": {
-        "name": "Feature NBT Deadlock Be Gone"
-      }
-    },
-    {
       "projectID": 559187,
       "fileID": 3580862,
       "required": true,
@@ -1913,11 +1947,43 @@
       }
     },
     {
+      "projectID": 560262,
+      "fileID": 3652164,
+      "required": true,
+      "__meta": {
+        "name": "Croptopia's Chocolaterie",
+        "dependencies": [
+          415438,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 560323,
+      "fileID": 3618462,
+      "required": true,
+      "__meta": {
+        "name": "Feature NBT Deadlock Be Gone"
+      }
+    },
+    {
       "projectID": 560957,
       "fileID": 3625238,
       "required": true,
       "__meta": {
         "name": "TieFix"
+      }
+    },
+    {
+      "projectID": 563800,
+      "fileID": 3645884,
+      "required": true,
+      "__meta": {
+        "name": "AE2 Things",
+        "dependencies": [
+          306612,
+          223794
+        ]
       }
     },
     {
@@ -1940,6 +2006,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 567009,
+      "fileID": 3640570,
+      "required": true,
+      "__meta": {
+        "name": "Mystical Index"
       }
     },
     {
@@ -1967,6 +2041,18 @@
       }
     },
     {
+      "projectID": 568372,
+      "fileID": 3645785,
+      "required": true,
+      "__meta": {
+        "name": "Fish of Thieves",
+        "dependencies": [
+          306612,
+          319057
+        ]
+      }
+    },
+    {
       "projectID": 570109,
       "fileID": 3616134,
       "required": true,
@@ -1980,6 +2066,14 @@
       "required": true,
       "__meta": {
         "name": "Raised"
+      }
+    },
+    {
+      "projectID": 571035,
+      "fileID": 3646389,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Weathering "
       }
     },
     {
@@ -2012,6 +2106,26 @@
       "__meta": {
         "name": "Coxinha Utilities",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 577468,
+      "fileID": 3646420,
+      "required": true,
+      "__meta": {
+        "name": "Dyed"
+      }
+    },
+    {
+      "projectID": 580843,
+      "fileID": 3652231,
+      "required": true,
+      "__meta": {
+        "name": "Pleasant Pigeons",
+        "dependencies": [
+          388172,
           306612
         ]
       }
