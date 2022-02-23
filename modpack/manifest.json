@@ -3,7 +3,7 @@
     "version": "1.18.1",
     "modLoaders": [
       {
-        "id": "fabric-0.13.1",
+        "id": "fabric-0.13.3",
         "primary": true
       }
     ]
@@ -418,7 +418,7 @@
     },
     {
       "projectID": 349240,
-      "fileID": 3542068,
+      "fileID": 3658004,
       "required": true,
       "__meta": {
         "name": "Carpet Extra",
@@ -429,7 +429,7 @@
     },
     {
       "projectID": 349630,
-      "fileID": 3651178,
+      "fileID": 3557414,
       "required": true,
       "__meta": {
         "name": "WI Zoom",
@@ -1080,7 +1080,7 @@
     },
     {
       "projectID": 438497,
-      "fileID": 3596306,
+      "fileID": 3657258,
       "required": true,
       "__meta": {
         "name": "FTB Teams (Fabric)",
@@ -1107,7 +1107,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3635138,
+      "fileID": 3654879,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1122,6 +1122,14 @@
       "required": true,
       "__meta": {
         "name": "Golden Hoppers"
+      }
+    },
+    {
+      "projectID": 447651,
+      "fileID": 3648255,
+      "required": true,
+      "__meta": {
+        "name": "HUDTweaks"
       }
     },
     {
@@ -1358,8 +1366,21 @@
       }
     },
     {
+      "projectID": 486981,
+      "fileID": 3600867,
+      "required": true,
+      "__meta": {
+        "name": "Neutral Animals",
+        "dependencies": [
+          308769,
+          319057,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 488090,
-      "fileID": 3531347,
+      "fileID": 3657092,
       "required": true,
       "__meta": {
         "name": "MidnightLib",
@@ -1402,7 +1423,7 @@
     },
     {
       "projectID": 500525,
-      "fileID": 3606151,
+      "fileID": 3658027,
       "required": true,
       "__meta": {
         "name": "Balm (Fabric Edition)",
@@ -1528,6 +1549,14 @@
       }
     },
     {
+      "projectID": 514625,
+      "fileID": 3655358,
+      "required": true,
+      "__meta": {
+        "name": "Fabulous Clouds [FABRIC]"
+      }
+    },
+    {
       "projectID": 518319,
       "fileID": 3545709,
       "required": true,
@@ -1586,7 +1615,7 @@
     },
     {
       "projectID": 531351,
-      "fileID": 3549420,
+      "fileID": 3655794,
       "required": true,
       "__meta": {
         "name": "Continuity",
@@ -1730,8 +1759,16 @@
       }
     },
     {
+      "projectID": 550644,
+      "fileID": 3560024,
+      "required": true,
+      "__meta": {
+        "name": "Armor Chroma for Fabric"
+      }
+    },
+    {
       "projectID": 551520,
-      "fileID": 3598710,
+      "fileID": 3656588,
       "required": true,
       "__meta": {
         "name": "Better Fps - Render Distance[Forge/Fabric]"
@@ -1836,11 +1873,43 @@
       }
     },
     {
+      "projectID": 557743,
+      "fileID": 3578519,
+      "required": true,
+      "__meta": {
+        "name": "Fixed Waterlogging"
+      }
+    },
+    {
+      "projectID": 559012,
+      "fileID": 3580790,
+      "required": true,
+      "__meta": {
+        "name": "EntityFireSpread",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 560323,
       "fileID": 3618462,
       "required": true,
       "__meta": {
         "name": "Feature NBT Deadlock Be Gone"
+      }
+    },
+    {
+      "projectID": 559187,
+      "fileID": 3580862,
+      "required": true,
+      "__meta": {
+        "name": "ThisIsFine",
+        "dependencies": [
+          306612,
+          308769
+        ]
       }
     },
     {
@@ -1859,6 +1928,91 @@
         "name": "Puzzle",
         "dependencies": [
           488090
+        ]
+      }
+    },
+    {
+      "projectID": 564941,
+      "fileID": 3596654,
+      "required": true,
+      "__meta": {
+        "name": "Show Me What You Got",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 567114,
+      "fileID": 3634034,
+      "required": true,
+      "__meta": {
+        "name": "The Extractinator (Fabric)",
+        "dependencies": [
+          319057,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 568059,
+      "fileID": 3609057,
+      "required": true,
+      "__meta": {
+        "name": "Restock",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 570109,
+      "fileID": 3616134,
+      "required": true,
+      "__meta": {
+        "name": "VanitySlots"
+      }
+    },
+    {
+      "projectID": 570368,
+      "fileID": 3642895,
+      "required": true,
+      "__meta": {
+        "name": "Raised"
+      }
+    },
+    {
+      "projectID": 571170,
+      "fileID": 3618357,
+      "required": true,
+      "__meta": {
+        "name": "GameBlocks",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 571503,
+      "fileID": 3651844,
+      "required": true,
+      "__meta": {
+        "name": "Guard Villagers (Fabric)",
+        "dependencies": [
+          306612,
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 576449,
+      "fileID": 3637978,
+      "required": true,
+      "__meta": {
+        "name": "Coxinha Utilities",
+        "dependencies": [
+          306612
         ]
       }
     }
