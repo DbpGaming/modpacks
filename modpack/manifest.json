@@ -1228,6 +1228,38 @@
       }
     },
     {
+      "projectID": 557743,
+      "fileID": 3578519,
+      "required": true,
+      "__meta": {
+        "name": "Fixed Waterlogging"
+      }
+    },
+    {
+      "projectID": 559012,
+      "fileID": 3580790,
+      "required": true,
+      "__meta": {
+        "name": "EntityFireSpread",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
+      "projectID": 559187,
+      "fileID": 3580862,
+      "required": true,
+      "__meta": {
+        "name": "ThisIsFine",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 560957,
       "fileID": 3625238,
       "required": true,
@@ -1247,6 +1279,29 @@
       }
     },
     {
+      "projectID": 564941,
+      "fileID": 3596654,
+      "required": true,
+      "__meta": {
+        "name": "Show Me What You Got",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 567114,
+      "fileID": 3634034,
+      "required": true,
+      "__meta": {
+        "name": "The Extractinator (Fabric)",
+        "dependencies": [
+          319057,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 568059,
       "fileID": 3609057,
       "required": true,
@@ -1259,11 +1314,53 @@
       }
     },
     {
+      "projectID": 570109,
+      "fileID": 3616134,
+      "required": true,
+      "__meta": {
+        "name": "VanitySlots"
+      }
+    },
+    {
       "projectID": 570368,
       "fileID": 3642895,
       "required": true,
       "__meta": {
         "name": "Raised"
+      }
+    },
+    {
+      "projectID": 571170,
+      "fileID": 3618357,
+      "required": true,
+      "__meta": {
+        "name": "GameBlocks",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 571503,
+      "fileID": 3651844,
+      "required": true,
+      "__meta": {
+        "name": "Guard Villagers (Fabric)",
+        "dependencies": [
+          306612,
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 576449,
+      "fileID": 3637978,
+      "required": true,
+      "__meta": {
+        "name": "Coxinha Utilities",
+        "dependencies": [
+          306612
+        ]
       }
     }
   ]
