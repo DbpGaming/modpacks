@@ -788,7 +788,7 @@
     },
     {
       "projectID": 394915,
-      "fileID": 3648688,
+      "fileID": 3658194,
       "required": true,
       "__meta": {
         "name": "Bewitchment",
@@ -835,7 +835,7 @@
     },
     {
       "projectID": 398614,
-      "fileID": 3561305,
+      "fileID": 3657658,
       "required": true,
       "__meta": {
         "name": "Deep Mob Learning: Refabricated",
@@ -970,7 +970,7 @@
     },
     {
       "projectID": 415438,
-      "fileID": 3590391,
+      "fileID": 3656490,
       "required": true,
       "__meta": {
         "name": "Croptopia [FABRIC/FORGE]"
@@ -1027,19 +1027,6 @@
       }
     },
     {
-      "projectID": 421839,
-      "fileID": 3578081,
-      "required": true,
-      "__meta": {
-        "name": "Botania (Fabric)",
-        "dependencies": [
-          393236,
-          341284,
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 421649,
       "fileID": 3638215,
       "required": true,
@@ -1047,6 +1034,19 @@
         "name": "YUNG's API (Fabric)",
         "explicit": false,
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 421839,
+      "fileID": 3656289,
+      "required": true,
+      "__meta": {
+        "name": "Botania (Fabric)",
+        "dependencies": [
+          393236,
+          341284,
           306612
         ]
       }
@@ -1475,6 +1475,19 @@
       }
     },
     {
+      "projectID": 480684,
+      "fileID": 3650507,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Strongholds (Fabric)",
+        "dependencies": [
+          421649,
+          306612,
+          319057
+        ]
+      }
+    },
+    {
       "projectID": 482834,
       "fileID": 3559302,
       "required": true,
@@ -1493,20 +1506,6 @@
         "name": "Incantationem",
         "dependencies": [
           306612
-        ]
-      }
-    },
-    {
-      "projectID": 480684,
-      "fileID": 3650507,
-      "required": true,
-      "__meta": {
-        "name": "YUNG's Better Strongholds (Fabric)",
-        "dependencies": [
-          421649,
-          306612,
-          319057
-
         ]
       }
     },
@@ -1802,7 +1801,7 @@
     },
     {
       "projectID": 535541,
-      "fileID": 3574647,
+      "fileID": 3654662,
       "required": true,
       "__meta": {
         "name": "Chalk (Fabric)"
@@ -1956,6 +1955,14 @@
       }
     },
     {
+      "projectID": 552630,
+      "fileID": 3550103,
+      "required": true,
+      "__meta": {
+        "name": "Vulnerable Flight"
+      }
+    },
+    {
       "projectID": 554340,
       "fileID": 3602069,
       "required": true,
@@ -1986,14 +1993,6 @@
         "dependencies": [
           500525
         ]
-      }
-    },
-    {
-      "projectID": 552630,
-      "fileID": 3550103,
-      "required": true,
-      "__meta": {
-        "name": "Vulnerable Flight"
       }
     },
     {
