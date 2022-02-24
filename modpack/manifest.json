@@ -116,6 +116,14 @@
       }
     },
     {
+      "projectID": 282313,
+      "fileID": 3649236,
+      "required": true,
+      "__meta": {
+        "name": "TipTheScales"
+      }
+    },
+    {
       "projectID": 303119,
       "fileID": 3647223,
       "required": true,
@@ -373,7 +381,7 @@
     },
     {
       "projectID": 360438,
-      "fileID": 3590908,
+      "fileID": 3659182,
       "required": true,
       "__meta": {
         "name": "Lithium (Fabric)"
@@ -401,6 +409,25 @@
       "required": true,
       "__meta": {
         "name": "Your Options Shall Be Respected (YOSBR)"
+      }
+    },
+    {
+      "projectID": 377109,
+      "fileID": 3631576,
+      "required": true,
+      "__meta": {
+        "name": "Tool Stats"
+      }
+    },
+    {
+      "projectID": 378266,
+      "fileID": 3567077,
+      "required": true,
+      "__meta": {
+        "name": "Mo' Structures (Fabric)",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -553,6 +580,14 @@
       }
     },
     {
+      "projectID": 397278,
+      "fileID": 3599030,
+      "required": true,
+      "__meta": {
+        "name": "Unlimited Dragon Eggs (Fabric)"
+      }
+    },
+    {
       "projectID": 397510,
       "fileID": 3646095,
       "required": true,
@@ -662,6 +697,18 @@
       }
     },
     {
+      "projectID": 421649,
+      "fileID": 3638215,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's API (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 423254,
       "fileID": 3509388,
       "required": true,
@@ -673,11 +720,30 @@
       }
     },
     {
+      "projectID": 423659,
+      "fileID": 3542784,
+      "required": true,
+      "__meta": {
+        "name": "Vistas"
+      }
+    },
+    {
       "projectID": 428912,
       "fileID": 3559150,
       "required": true,
       "__meta": {
         "name": "Krypton"
+      }
+    },
+    {
+      "projectID": 432008,
+      "fileID": 3570779,
+      "required": true,
+      "__meta": {
+        "name": "Visual Overhaul",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -786,6 +852,17 @@
       }
     },
     {
+      "projectID": 443782,
+      "fileID": 3342338,
+      "required": true,
+      "__meta": {
+        "name": "Better Beds",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 447651,
       "fileID": 3648255,
       "required": true,
@@ -832,6 +909,14 @@
       "required": true,
       "__meta": {
         "name": "No Fade"
+      }
+    },
+    {
+      "projectID": 452834,
+      "fileID": 3541965,
+      "required": true,
+      "__meta": {
+        "name": "RightClickHarvest"
       }
     },
     {
@@ -922,6 +1007,19 @@
       "required": true,
       "__meta": {
         "name": "Custom Entity Models (CEM)"
+      }
+    },
+    {
+      "projectID": 480684,
+      "fileID": 3650507,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Strongholds (Fabric)",
+        "dependencies": [
+          421649,
+          306612,
+          319057
+        ]
       }
     },
     {
@@ -1148,6 +1246,14 @@
       }
     },
     {
+      "projectID": 547358,
+      "fileID": 3566721,
+      "required": true,
+      "__meta": {
+        "name": "WMITAF"
+      }
+    },
+    {
       "projectID": 547692,
       "fileID": 3549496,
       "required": true,
@@ -1214,6 +1320,14 @@
       "required": true,
       "__meta": {
         "name": "Chisel Refabricated"
+      }
+    },
+    {
+      "projectID": 552630,
+      "fileID": 3550103,
+      "required": true,
+      "__meta": {
+        "name": "Vulnerable Flight"
       }
     },
     {
