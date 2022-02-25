@@ -630,14 +630,6 @@
       }
     },
     {
-      "projectID": 382694,
-      "fileID": 3577332,
-      "required": true,
-      "__meta": {
-        "name": "Staff of Building"
-      }
-    },
-    {
       "projectID": 386892,
       "fileID": 3578788,
       "required": true,
@@ -835,14 +827,6 @@
           419697,
           416294
         ]
-      }
-    },
-    {
-      "projectID": 397278,
-      "fileID": 3599030,
-      "required": true,
-      "__meta": {
-        "name": "Unlimited Dragon Eggs (Fabric)"
       }
     },
     {
