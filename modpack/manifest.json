@@ -116,7 +116,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 3647008,
+      "fileID": 3663016,
       "required": true,
       "__meta": {
         "name": "Xaero's Minimap",
@@ -302,7 +302,7 @@
     },
     {
       "projectID": 317856,
-      "fileID": 3586771,
+      "fileID": 3666060,
       "required": true,
       "__meta": {
         "name": "[Fabric] Expanded Storage",
@@ -818,7 +818,7 @@
     },
     {
       "projectID": 395864,
-      "fileID": 3647100,
+      "fileID": 3666185,
       "required": true,
       "__meta": {
         "name": "KubeJS (Fabric)",
@@ -1240,7 +1240,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3654879,
+      "fileID": 3662798,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1284,6 +1284,19 @@
         "name": "Sodium Extra",
         "dependencies": [
           394468
+        ]
+      }
+    },
+    {
+      "projectID": 448231,
+      "fileID": 3643150,
+      "required": true,
+      "__meta": {
+        "name": "FTB Ultimine (Fabric)",
+        "dependencies": [
+          306612,
+          419697,
+          438495
         ]
       }
     },
@@ -1670,6 +1683,18 @@
       }
     },
     {
+      "projectID": 509575,
+      "fileID": 3626693,
+      "required": true,
+      "__meta": {
+        "name": "Observable",
+        "dependencies": [
+          308769,
+          419697
+        ]
+      }
+    },
+    {
       "projectID": 510262,
       "fileID": 3642569,
       "required": true,
@@ -1825,7 +1850,7 @@
     },
     {
       "projectID": 533006,
-      "fileID": 3594396,
+      "fileID": 3664303,
       "required": true,
       "__meta": {
         "name": "Animatica",
@@ -2051,6 +2076,14 @@
       }
     },
     {
+      "projectID": 552542,
+      "fileID": 3614398,
+      "required": true,
+      "__meta": {
+        "name": "Very Many Players (Fabric)"
+      }
+    },
+    {
       "projectID": 552630,
       "fileID": 3550103,
       "required": true,
@@ -2232,7 +2265,7 @@
     },
     {
       "projectID": 567114,
-      "fileID": 3634034,
+      "fileID": 3662028,
       "required": true,
       "__meta": {
         "name": "The Extractinator (Fabric)",
