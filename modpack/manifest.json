@@ -115,17 +115,6 @@
       }
     },
     {
-      "projectID": 263420,
-      "fileID": 3663016,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's Minimap",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 273279,
       "fileID": 3543423,
       "required": true,
@@ -284,17 +273,6 @@
       "required": true,
       "__meta": {
         "name": "Vanilla Hammers",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 317780,
-      "fileID": 3646988,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's World Map",
         "dependencies": [
           306612
         ]
@@ -2085,6 +2063,14 @@
         "dependencies": [
           500525
         ]
+      }
+    },
+    {
+      "projectID": 549363,
+      "fileID": 3603635,
+      "required": true,
+      "__meta": {
+        "name": "🌷Floral Flair🌷"
       }
     },
     {
