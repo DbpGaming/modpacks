@@ -241,7 +241,7 @@
     },
     {
       "projectID": 317856,
-      "fileID": 3586771,
+      "fileID": 3666060,
       "required": true,
       "__meta": {
         "name": "[Fabric] Expanded Storage",
@@ -568,7 +568,7 @@
     },
     {
       "projectID": 395864,
-      "fileID": 3647100,
+      "fileID": 3666185,
       "required": true,
       "__meta": {
         "name": "KubeJS (Fabric)",
@@ -1101,14 +1101,6 @@
       }
     },
     {
-      "projectID": 510262,
-      "fileID": 3642569,
-      "required": true,
-      "__meta": {
-        "name": "XP Obelisk"
-      }
-    },
-    {
       "projectID": 509575,
       "fileID": 3626693,
       "required": true,
@@ -1118,6 +1110,14 @@
           308769,
           419697
         ]
+      }
+    },
+    {
+      "projectID": 510262,
+      "fileID": 3642569,
+      "required": true,
+      "__meta": {
+        "name": "XP Obelisk"
       }
     },
     {
@@ -1425,7 +1425,7 @@
     },
     {
       "projectID": 567114,
-      "fileID": 3634034,
+      "fileID": 3662028,
       "required": true,
       "__meta": {
         "name": "The Extractinator (Fabric)",
