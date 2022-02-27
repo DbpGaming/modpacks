@@ -1,0 +1,19 @@
+{
+  "name": "bronze",
+  "disable": false,
+  "tier": 1,
+  "color": "ec9e3f",
+  "armorPoints": 3,
+  "enchantability": 9,
+  "craftingMaterial": "tag:c:bronze_ingots",
+  "rarity": 0,
+  "capacity": 100000.0,
+  "usage": 70.0,
+  "speedVertical": 0.25,
+  "accelVertical": 0.11,
+  "speedSideways": 0.08,
+  "speedHoverDescend": 0.18,
+  "speedHover": 0.1,
+  "sprintSpeedMulti": 1.0,
+  "sprintFuelMulti": 1.0
+}

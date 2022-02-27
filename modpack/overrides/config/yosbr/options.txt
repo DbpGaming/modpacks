@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["Fabric Mods"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","Fabric Mods","visualoverhaul/fancyfurnace","visualoverhaul/coloredwaterbucket","visualoverhaul/nobrewingbottles","file/Blast to the Past.zip","continuity/default","continuity/glass_pane_culling_fix","betterbeds/fancybeds","armorchroma/alternative-icons","betterbeds/connectedbeds","computercraft/overhaul","immersive_weathering/better_brick_blocks","immersive_weathering/better_brick_items","immersive_weathering/visual_waxed_iron_items"]
+incompatibleResourcePacks:["betterbeds/fancybeds","betterbeds/connectedbeds","computercraft/overhaul"]
 lastServer:
 lang:en_us
 soundDevice:
@@ -115,11 +115,6 @@ key_key.firstperson.toggle:key.keyboard.f6
 key_key.ftbchunks.map:key.keyboard.m
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
-key_ALT Key:key.keyboard.left.alt
-key_Boost Key:key.keyboard.left.control
-key_Mode Switch Key:key.keyboard.m
-key_Side Inventory Key:key.keyboard.c
-key_Hub Expand Key:key.keyboard.x
 key_key.iron-jetpacks.engine:key.keyboard.v
 key_key.iron-jetpacks.hover:key.keyboard.g
 key_key.iron-jetpacks.descend:key.keyboard.unknown
@@ -135,6 +130,7 @@ key_key.ae2wtlib.toggleRestock:key.keyboard.unknown
 key_key.ae2wtlib.toggleMagnet:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
 key_key.ftbquests.quests:key.keyboard.unknown
+key_key.ftbultimine:key.keyboard.grave.accent
 key_key.bewitchment.transformation_ability:key.keyboard.r
 key_key.botania_corporea_request:key.keyboard.c
 key_key.buildinggadgets.settings_menu:key.keyboard.g
@@ -145,6 +141,7 @@ key_key.buildinggadgets.fuzzy:key.keyboard.unknown
 key_key.buildinggadgets.connected_area:key.keyboard.unknown
 key_key.buildinggadgets.rotate_mirror:key.keyboard.unknown
 key_key.buildinggadgets.material_list:key.keyboard.m
+key_key.campanion.open_backpack:key.keyboard.b
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.conjuring.toggle_tool_mode:key.keyboard.left.alt
@@ -152,9 +149,12 @@ key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.dml-refabricated.teleport:key.keyboard.v
 key_key.dml-refabricated.soul_vision:key.keyboard.b
+key_key.doom.reload:key.keyboard.r
+key_key.doom.yeethook:key.keyboard.v
 key_key.entityculling.toggle:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_key.guild.quest_screen:key.keyboard.j
 key_key.indrev.modular:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
@@ -162,33 +162,18 @@ key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.modern_industrialization.activate:key.keyboard.v
 key_key.mtmechs.primary:key.keyboard.v
+key_key.observable.profile:key.keyboard.r
+key_key.restock.toggle:key.keyboard.apostrophe
+key_key.things.place_item:key.keyboard.j
+key_key.things.openenderchest:key.keyboard.g
+key_key.travelersbackpack.inventory:key.keyboard.b
+key_key.travelersbackpack.cycle_tool:key.keyboard.z
+key_key.vistas.panoramic_screenshot:key.keyboard.h
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
-key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
-key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
-key_gui.xaero_toggle_slime:key.keyboard.unknown
-key_gui.xaero_toggle_grid:key.keyboard.unknown
-key_gui.xaero_toggle_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.z
-key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.unknown
-key_gui.xaero_zoom_out:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.b
-key_gui.xaero_display_all_sets:key.keyboard.unknown
-key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
-key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
-key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.y
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.right.bracket
-key_gui.xaero_map_zoom_in:key.keyboard.unknown
-key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
