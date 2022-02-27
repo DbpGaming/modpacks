@@ -1362,6 +1362,19 @@
       }
     },
     {
+      "projectID": 455585,
+      "fileID": 3596570,
+      "required": true,
+      "__meta": {
+        "name": "Kambrik",
+        "explicit": false,
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 456151,
       "fileID": 3663069,
       "required": true,
@@ -1804,11 +1817,42 @@
       }
     },
     {
+      "projectID": 521673,
+      "fileID": 3599391,
+      "required": true,
+      "__meta": {
+        "name": "Bountiful (Fabric)",
+        "dependencies": [
+          455585,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 521783,
       "fileID": 3599857,
       "required": true,
       "__meta": {
         "name": "Starlight (Fabric)"
+      }
+    },
+    {
+      "projectID": 526011,
+      "fileID": 3600139,
+      "required": true,
+      "__meta": {
+        "name": "The Guild",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 526274,
+      "fileID": 3545010,
+      "required": true,
+      "__meta": {
+        "name": "Boat Container"
       }
     },
     {
@@ -1948,6 +1992,18 @@
       }
     },
     {
+      "projectID": 541171,
+      "fileID": 3662414,
+      "required": true,
+      "__meta": {
+        "name": "Traveler's Backpack [FABRIC]",
+        "dependencies": [
+          306612,
+          319057
+        ]
+      }
+    },
+    {
       "projectID": 546590,
       "fileID": 3636527,
       "required": true,
@@ -2037,14 +2093,6 @@
       "required": true,
       "__meta": {
         "name": "Armor Chroma for Fabric"
-      }
-    },
-    {
-      "projectID": 551520,
-      "fileID": 3656588,
-      "required": true,
-      "__meta": {
-        "name": "Better Fps - Render Distance[Forge/Fabric]"
       }
     },
     {
@@ -2199,6 +2247,18 @@
       "required": true,
       "__meta": {
         "name": "Feature NBT Deadlock Be Gone"
+      }
+    },
+    {
+      "projectID": 560752,
+      "fileID": 3662780,
+      "required": true,
+      "__meta": {
+        "name": "Totally Lit",
+        "dependencies": [
+          319057,
+          306612
+        ]
       }
     },
     {
@@ -2375,6 +2435,14 @@
           388172,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 582640,
+      "fileID": 3659147,
+      "required": true,
+      "__meta": {
+        "name": "Better Fps - Render Distance[Fabric]"
       }
     }
   ]
