@@ -474,6 +474,14 @@
       }
     },
     {
+      "projectID": 360673,
+      "fileID": 3537305,
+      "required": true,
+      "__meta": {
+        "name": "Custom Window Title"
+      }
+    },
+    {
       "projectID": 365727,
       "fileID": 3470993,
       "required": true,
