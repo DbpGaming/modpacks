@@ -79,7 +79,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 3647008,
+      "fileID": 3663016,
       "required": true,
       "__meta": {
         "name": "Xaero's Minimap",
@@ -679,7 +679,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3652981,
+      "fileID": 3666162,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -834,7 +834,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3654879,
+      "fileID": 3662798,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1109,6 +1109,18 @@
       }
     },
     {
+      "projectID": 509575,
+      "fileID": 3626693,
+      "required": true,
+      "__meta": {
+        "name": "Observable",
+        "dependencies": [
+          308769,
+          419697
+        ]
+      }
+    },
+    {
       "projectID": 511319,
       "fileID": 3622245,
       "required": true,
@@ -1205,7 +1217,7 @@
     },
     {
       "projectID": 533006,
-      "fileID": 3594396,
+      "fileID": 3664303,
       "required": true,
       "__meta": {
         "name": "Animatica",
@@ -1320,6 +1332,14 @@
       "required": true,
       "__meta": {
         "name": "Chisel Refabricated"
+      }
+    },
+    {
+      "projectID": 552542,
+      "fileID": 3614398,
+      "required": true,
+      "__meta": {
+        "name": "Very Many Players (Fabric)"
       }
     },
     {
