@@ -788,6 +788,17 @@
       }
     },
     {
+      "projectID": 394667,
+      "fileID": 3541865,
+      "required": true,
+      "__meta": {
+        "name": "On Soul Fire",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 394915,
       "fileID": 3658194,
       "required": true,
