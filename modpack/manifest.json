@@ -70,17 +70,6 @@
       }
     },
     {
-      "projectID": 263420,
-      "fileID": 3663016,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's Minimap",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 273279,
       "fileID": 3543423,
       "required": true,
@@ -191,17 +180,6 @@
       }
     },
     {
-      "projectID": 317780,
-      "fileID": 3646988,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's World Map",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 319057,
       "fileID": 3641132,
       "required": true,
@@ -228,18 +206,6 @@
       "required": true,
       "__meta": {
         "name": "Right Click Clear"
-      }
-    },
-    {
-      "projectID": 333287,
-      "fileID": 3523461,
-      "required": true,
-      "__meta": {
-        "name": "First-person Model (Forge/Fabric)",
-        "dependencies": [
-          306612,
-          433760
-        ]
       }
     },
     {
@@ -534,7 +500,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3666162,
+      "fileID": 3665967,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -902,7 +868,7 @@
     },
     {
       "projectID": 521783,
-      "fileID": 3599857,
+      "fileID": 3554912,
       "required": true,
       "__meta": {
         "name": "Starlight (Fabric)"
@@ -947,6 +913,14 @@
       }
     },
     {
+      "projectID": 546841,
+      "fileID": 3570785,
+      "required": true,
+      "__meta": {
+        "name": "No Null Processors"
+      }
+    },
+    {
       "projectID": 547358,
       "fileID": 3566721,
       "required": true,
@@ -963,14 +937,6 @@
         "dependencies": [
           500525
         ]
-      }
-    },
-    {
-      "projectID": 550644,
-      "fileID": 3560024,
-      "required": true,
-      "__meta": {
-        "name": "Armor Chroma for Fabric"
       }
     },
     {
@@ -998,14 +964,11 @@
       }
     },
     {
-      "projectID": 556408,
-      "fileID": 3607814,
+      "projectID": 560323,
+      "fileID": 3618462,
       "required": true,
       "__meta": {
-        "name": "Sodium Shadowy Path Blocks",
-        "dependencies": [
-          394468
-        ]
+        "name": "Feature NBT Deadlock Be Gone"
       }
     },
     {
@@ -1037,14 +1000,6 @@
           306612,
           308769
         ]
-      }
-    },
-    {
-      "projectID": 570368,
-      "fileID": 3642895,
-      "required": true,
-      "__meta": {
-        "name": "Raised"
       }
     }
   ]
