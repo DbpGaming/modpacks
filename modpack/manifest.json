@@ -150,6 +150,18 @@
       }
     },
     {
+      "projectID": 286328,
+      "fileID": 3662439,
+      "required": true,
+      "__meta": {
+        "name": "RSWires",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 303119,
       "fileID": 3647223,
       "required": true,
@@ -470,6 +482,22 @@
       }
     },
     {
+      "projectID": 364531,
+      "fileID": 3579621,
+      "required": true,
+      "__meta": {
+        "name": "FastBench for Fabric"
+      }
+    },
+    {
+      "projectID": 364540,
+      "fileID": 3558448,
+      "required": true,
+      "__meta": {
+        "name": "Fast Furnace for Fabric"
+      }
+    },
+    {
       "projectID": 365727,
       "fileID": 3470993,
       "required": true,
@@ -520,6 +548,14 @@
         "dependencies": [
           319057
         ]
+      }
+    },
+    {
+      "projectID": 373450,
+      "fileID": 3623058,
+      "required": true,
+      "__meta": {
+        "name": "Energy Control"
       }
     },
     {
@@ -601,6 +637,14 @@
       "required": true,
       "__meta": {
         "name": "CompleteConfig"
+      }
+    },
+    {
+      "projectID": 385230,
+      "fileID": 3667332,
+      "required": true,
+      "__meta": {
+        "name": "Columns"
       }
     },
     {
@@ -845,6 +889,14 @@
       }
     },
     {
+      "projectID": 398265,
+      "fileID": 3409213,
+      "required": true,
+      "__meta": {
+        "name": "Enchanted Book Redesign Fabric"
+      }
+    },
+    {
       "projectID": 398614,
       "fileID": 3657658,
       "required": true,
@@ -909,6 +961,14 @@
       }
     },
     {
+      "projectID": 403889,
+      "fileID": 3652470,
+      "required": true,
+      "__meta": {
+        "name": "Smoother Bedrock"
+      }
+    },
+    {
       "projectID": 403914,
       "fileID": 3657867,
       "required": true,
@@ -945,6 +1005,17 @@
       "required": true,
       "__meta": {
         "name": "Gate of Babylon"
+      }
+    },
+    {
+      "projectID": 408118,
+      "fileID": 3655916,
+      "required": true,
+      "__meta": {
+        "name": "megane",
+        "dependencies": [
+          440979
+        ]
       }
     },
     {
@@ -1830,6 +1901,19 @@
       }
     },
     {
+      "projectID": 525586,
+      "fileID": 3659526,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons (Fabric)",
+        "dependencies": [
+          319057,
+          421649,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 526011,
       "fileID": 3600139,
       "required": true,
@@ -1916,6 +2000,17 @@
         "dependencies": [
           306612,
           319057
+        ]
+      }
+    },
+    {
+      "projectID": 535291,
+      "fileID": 3657439,
+      "required": true,
+      "__meta": {
+        "name": "MCA Reborn",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -2384,6 +2479,18 @@
         "dependencies": [
           306612,
           319057
+        ]
+      }
+    },
+    {
+      "projectID": 574411,
+      "fileID": 3661230,
+      "required": true,
+      "__meta": {
+        "name": "Earthbounds",
+        "dependencies": [
+          388172,
+          306612
         ]
       }
     },
