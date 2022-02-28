@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "version": "1.18.1",
+    "version": "1.18.2",
     "modLoaders": [
       {
         "id": "fabric-0.13.3",
@@ -78,17 +78,6 @@
       }
     },
     {
-      "projectID": 263420,
-      "fileID": 3663016,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's Minimap",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 273279,
       "fileID": 3543423,
       "required": true,
@@ -133,7 +122,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3634318,
+      "fileID": 3659135,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -168,7 +157,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3666906,
+      "fileID": 3666977,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -229,17 +218,6 @@
       }
     },
     {
-      "projectID": 317780,
-      "fileID": 3646988,
-      "required": true,
-      "__meta": {
-        "name": "Xaero's World Map",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 317856,
       "fileID": 3666060,
       "required": true,
@@ -281,18 +259,6 @@
       }
     },
     {
-      "projectID": 333287,
-      "fileID": 3523461,
-      "required": true,
-      "__meta": {
-        "name": "First-person Model (Forge/Fabric)",
-        "dependencies": [
-          306612,
-          433760
-        ]
-      }
-    },
-    {
       "projectID": 335493,
       "fileID": 3606973,
       "required": true,
@@ -313,7 +279,7 @@
     },
     {
       "projectID": 349239,
-      "fileID": 3613878,
+      "fileID": 3659469,
       "required": true,
       "__meta": {
         "name": "Carpet"
@@ -332,7 +298,7 @@
     },
     {
       "projectID": 349630,
-      "fileID": 3557414,
+      "fileID": 3662133,
       "required": true,
       "__meta": {
         "name": "WI Zoom",
@@ -679,7 +645,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3666162,
+      "fileID": 3665967,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -834,7 +800,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3662798,
+      "fileID": 3662941,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1194,7 +1160,7 @@
     },
     {
       "projectID": 521783,
-      "fileID": 3599857,
+      "fileID": 3554912,
       "required": true,
       "__meta": {
         "name": "Starlight (Fabric)"
@@ -1271,6 +1237,14 @@
       }
     },
     {
+      "projectID": 546841,
+      "fileID": 3570785,
+      "required": true,
+      "__meta": {
+        "name": "No Null Processors"
+      }
+    },
+    {
       "projectID": 547358,
       "fileID": 3566721,
       "required": true,
@@ -1324,14 +1298,6 @@
       }
     },
     {
-      "projectID": 550644,
-      "fileID": 3560024,
-      "required": true,
-      "__meta": {
-        "name": "Armor Chroma for Fabric"
-      }
-    },
-    {
       "projectID": 551520,
       "fileID": 3656588,
       "required": true,
@@ -1364,14 +1330,11 @@
       }
     },
     {
-      "projectID": 556408,
-      "fileID": 3607814,
+      "projectID": 560323,
+      "fileID": 3618462,
       "required": true,
       "__meta": {
-        "name": "Sodium Shadowy Path Blocks",
-        "dependencies": [
-          394468
-        ]
+        "name": "Feature NBT Deadlock Be Gone"
       }
     },
     {
