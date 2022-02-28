@@ -815,6 +815,14 @@
       }
     },
     {
+      "projectID": 396300,
+      "fileID": 3652537,
+      "required": true,
+      "__meta": {
+        "name": "Overloaded Armor Bar Fabric"
+      }
+    },
+    {
       "projectID": 397510,
       "fileID": 3646095,
       "required": true,
@@ -2078,14 +2086,6 @@
       "required": true,
       "__meta": {
         "name": "🌷Floral Flair🌷"
-      }
-    },
-    {
-      "projectID": 550644,
-      "fileID": 3560024,
-      "required": true,
-      "__meta": {
-        "name": "Armor Chroma for Fabric"
       }
     },
     {
