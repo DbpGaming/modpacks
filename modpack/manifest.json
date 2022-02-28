@@ -1330,14 +1330,6 @@
       }
     },
     {
-      "projectID": 560323,
-      "fileID": 3618462,
-      "required": true,
-      "__meta": {
-        "name": "Feature NBT Deadlock Be Gone"
-      }
-    },
-    {
       "projectID": 557743,
       "fileID": 3578519,
       "required": true,
@@ -1367,6 +1359,14 @@
           306612,
           308769
         ]
+      }
+    },
+    {
+      "projectID": 560323,
+      "fileID": 3618462,
+      "required": true,
+      "__meta": {
+        "name": "Feature NBT Deadlock Be Gone"
       }
     },
     {
