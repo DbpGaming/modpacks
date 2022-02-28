@@ -355,18 +355,6 @@
       }
     },
     {
-      "projectID": 333287,
-      "fileID": 3523461,
-      "required": true,
-      "__meta": {
-        "name": "First-person Model (Forge/Fabric)",
-        "dependencies": [
-          306612,
-          433760
-        ]
-      }
-    },
-    {
       "projectID": 335493,
       "fileID": 3606973,
       "required": true,
@@ -2216,18 +2204,6 @@
       "required": true,
       "__meta": {
         "name": "EntityFireSpread",
-        "dependencies": [
-          306612,
-          308769
-        ]
-      }
-    },
-    {
-      "projectID": 559187,
-      "fileID": 3580862,
-      "required": true,
-      "__meta": {
-        "name": "ThisIsFine",
         "dependencies": [
           306612,
           308769
