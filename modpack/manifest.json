@@ -206,7 +206,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3652704,
+      "fileID": 3666906,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -629,7 +629,7 @@
     },
     {
       "projectID": 388832,
-      "fileID": 3524209,
+      "fileID": 3667194,
       "required": true,
       "__meta": {
         "name": "Kibe Utilities",
@@ -1274,7 +1274,7 @@
     },
     {
       "projectID": 448231,
-      "fileID": 3643150,
+      "fileID": 3667326,
       "required": true,
       "__meta": {
         "name": "FTB Ultimine (Fabric)",
@@ -2018,7 +2018,7 @@
     },
     {
       "projectID": 547692,
-      "fileID": 3549496,
+      "fileID": 3666466,
       "required": true,
       "__meta": {
         "name": "Client Tweaks (Fabric Edition)",
