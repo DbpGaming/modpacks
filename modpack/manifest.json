@@ -152,7 +152,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3652704,
+      "fileID": 3666906,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -956,7 +956,7 @@
     },
     {
       "projectID": 547692,
-      "fileID": 3549496,
+      "fileID": 3666466,
       "required": true,
       "__meta": {
         "name": "Client Tweaks (Fabric Edition)",
