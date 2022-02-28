@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "version": "1.18.1",
+    "version": "1.18.2",
     "modLoaders": [
       {
         "id": "fabric-0.13.3",
@@ -117,7 +117,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3634318,
+      "fileID": 3659135,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -152,7 +152,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3666906,
+      "fileID": 3666977,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -255,7 +255,7 @@
     },
     {
       "projectID": 349239,
-      "fileID": 3613878,
+      "fileID": 3659469,
       "required": true,
       "__meta": {
         "name": "Carpet"
@@ -274,7 +274,7 @@
     },
     {
       "projectID": 349630,
-      "fileID": 3557414,
+      "fileID": 3662133,
       "required": true,
       "__meta": {
         "name": "WI Zoom",
@@ -627,7 +627,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3662798,
+      "fileID": 3662941,
       "required": true,
       "__meta": {
         "name": "WTHIT",
