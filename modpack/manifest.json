@@ -24,6 +24,14 @@
       }
     },
     {
+      "projectID": 228525,
+      "fileID": 3668081,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf"
+      }
+    },
+    {
       "projectID": 242064,
       "fileID": 3615858,
       "required": true,
