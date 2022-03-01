@@ -278,6 +278,14 @@
       }
     },
     {
+      "projectID": 341284,
+      "fileID": 3629559,
+      "required": true,
+      "__meta": {
+        "name": "Trinkets (Fabric)"
+      }
+    },
+    {
       "projectID": 341772,
       "fileID": 3612783,
       "required": true,
