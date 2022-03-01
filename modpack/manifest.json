@@ -106,7 +106,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3659135,
+      "fileID": 3660981,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -221,7 +221,7 @@
     },
     {
       "projectID": 349239,
-      "fileID": 3659469,
+      "fileID": 3667635,
       "required": true,
       "__meta": {
         "name": "Carpet"
@@ -240,7 +240,7 @@
     },
     {
       "projectID": 349630,
-      "fileID": 3662133,
+      "fileID": 3667476,
       "required": true,
       "__meta": {
         "name": "WI Zoom",
@@ -593,7 +593,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3662941,
+      "fileID": 3667962,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -694,7 +694,7 @@
     },
     {
       "projectID": 459496,
-      "fileID": 3606937,
+      "fileID": 3667666,
       "required": true,
       "__meta": {
         "name": "Indium",
@@ -786,7 +786,7 @@
     },
     {
       "projectID": 508083,
-      "fileID": 3557163,
+      "fileID": 3667407,
       "required": true,
       "__meta": {
         "name": "Dynamic Render Distance",
@@ -868,7 +868,7 @@
     },
     {
       "projectID": 521783,
-      "fileID": 3554912,
+      "fileID": 3667443,
       "required": true,
       "__meta": {
         "name": "Starlight (Fabric)"
@@ -965,7 +965,7 @@
     },
     {
       "projectID": 560323,
-      "fileID": 3618462,
+      "fileID": 3665605,
       "required": true,
       "__meta": {
         "name": "Feature NBT Deadlock Be Gone"
