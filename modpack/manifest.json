@@ -1472,6 +1472,14 @@
           306612
         ]
       }
+    },
+    {
+      "projectID": 582640,
+      "fileID": 3659147,
+      "required": true,
+      "__meta": {
+        "name": "Better Fps - Render Distance[Fabric]"
+      }
     }
   ]
 }
