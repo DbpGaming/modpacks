@@ -200,7 +200,7 @@
     },
     {
       "projectID": 317121,
-      "fileID": 3612123,
+      "fileID": 3668284,
       "required": true,
       "__meta": {
         "name": "Cloth API (Fabric)"
@@ -239,7 +239,7 @@
     },
     {
       "projectID": 325492,
-      "fileID": 3552777,
+      "fileID": 3668243,
       "required": true,
       "__meta": {
         "name": "Light Overlay (Rift/Forge/Fabric)",
@@ -379,7 +379,7 @@
     },
     {
       "projectID": 377109,
-      "fileID": 3631576,
+      "fileID": 3668167,
       "required": true,
       "__meta": {
         "name": "Tool Stats"
@@ -695,7 +695,7 @@
     },
     {
       "projectID": 428912,
-      "fileID": 3559150,
+      "fileID": 3668215,
       "required": true,
       "__meta": {
         "name": "Krypton"
