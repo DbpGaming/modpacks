@@ -219,7 +219,7 @@
     },
     {
       "projectID": 317856,
-      "fileID": 3666060,
+      "fileID": 3666056,
       "required": true,
       "__meta": {
         "name": "[Fabric] Expanded Storage",
@@ -971,7 +971,7 @@
     },
     {
       "projectID": 476080,
-      "fileID": 3575523,
+      "fileID": 3667500,
       "required": true,
       "__meta": {
         "name": "Basic AIOTs",
