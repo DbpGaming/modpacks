@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "version": "1.18.1",
+    "version": "1.18.2",
     "modLoaders": [
       {
         "id": "fabric-0.13.3",
@@ -183,7 +183,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3634318,
+      "fileID": 3660981,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -218,7 +218,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3666906,
+      "fileID": 3666977,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -292,7 +292,7 @@
     },
     {
       "projectID": 317856,
-      "fileID": 3666060,
+      "fileID": 3666056,
       "required": true,
       "__meta": {
         "name": "[Fabric] Expanded Storage",
@@ -396,7 +396,7 @@
     },
     {
       "projectID": 349239,
-      "fileID": 3613878,
+      "fileID": 3667635,
       "required": true,
       "__meta": {
         "name": "Carpet"
@@ -415,7 +415,7 @@
     },
     {
       "projectID": 349630,
-      "fileID": 3557414,
+      "fileID": 3667476,
       "required": true,
       "__meta": {
         "name": "WI Zoom",
@@ -1107,7 +1107,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3666162,
+      "fileID": 3665967,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -1304,7 +1304,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3662798,
+      "fileID": 3667962,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1472,7 +1472,7 @@
     },
     {
       "projectID": 459496,
-      "fileID": 3606937,
+      "fileID": 3667666,
       "required": true,
       "__meta": {
         "name": "Indium",
@@ -1570,7 +1570,7 @@
     },
     {
       "projectID": 476080,
-      "fileID": 3575523,
+      "fileID": 3667500,
       "required": true,
       "__meta": {
         "name": "Basic AIOTs",
@@ -1726,7 +1726,7 @@
     },
     {
       "projectID": 508083,
-      "fileID": 3557163,
+      "fileID": 3667407,
       "required": true,
       "__meta": {
         "name": "Dynamic Render Distance",
@@ -1894,7 +1894,7 @@
     },
     {
       "projectID": 521783,
-      "fileID": 3599857,
+      "fileID": 3667443,
       "required": true,
       "__meta": {
         "name": "Starlight (Fabric)"
@@ -2324,6 +2324,14 @@
           319057,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 560323,
+      "fileID": 3665605,
+      "required": true,
+      "__meta": {
+        "name": "Feature NBT Deadlock Be Gone"
       }
     },
     {
