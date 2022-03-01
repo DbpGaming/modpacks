@@ -1306,14 +1306,6 @@
       }
     },
     {
-      "projectID": 551520,
-      "fileID": 3656588,
-      "required": true,
-      "__meta": {
-        "name": "Better Fps - Render Distance[Forge/Fabric]"
-      }
-    },
-    {
       "projectID": 551763,
       "fileID": 3578088,
       "required": true,
