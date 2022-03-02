@@ -25,7 +25,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 3668081,
+      "fileID": 3669434,
       "required": true,
       "__meta": {
         "name": "Bookshelf"
@@ -55,7 +55,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3648601,
+      "fileID": 3669327,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -63,7 +63,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3616323,
+      "fileID": 3669346,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -98,7 +98,7 @@
     },
     {
       "projectID": 282313,
-      "fileID": 3649236,
+      "fileID": 3669372,
       "required": true,
       "__meta": {
         "name": "TipTheScales"
@@ -122,7 +122,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 3570652,
+      "fileID": 3668801,
       "required": true,
       "__meta": {
         "name": "Mod Menu"
@@ -149,7 +149,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3666977,
+      "fileID": 3669526,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -363,7 +363,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 3652966,
+      "fileID": 3669039,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Fabric)",
@@ -414,7 +414,7 @@
     },
     {
       "projectID": 394468,
-      "fileID": 3605309,
+      "fileID": 3669187,
       "required": true,
       "__meta": {
         "name": "Sodium"
@@ -508,7 +508,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3665967,
+      "fileID": 3669517,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -601,7 +601,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3667962,
+      "fileID": 3669571,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -631,7 +631,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 3652095,
+      "fileID": 3669692,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -680,7 +680,7 @@
     },
     {
       "projectID": 455508,
-      "fileID": 3612857,
+      "fileID": 3669331,
       "required": true,
       "__meta": {
         "name": "Iris Shaders",
@@ -702,7 +702,7 @@
     },
     {
       "projectID": 459496,
-      "fileID": 3667666,
+      "fileID": 3669436,
       "required": true,
       "__meta": {
         "name": "Indium",
@@ -817,7 +817,7 @@
     },
     {
       "projectID": 511319,
-      "fileID": 3622245,
+      "fileID": 3669685,
       "required": true,
       "__meta": {
         "name": "Reese's Sodium Options",
@@ -949,7 +949,7 @@
     },
     {
       "projectID": 552542,
-      "fileID": 3614398,
+      "fileID": 3669618,
       "required": true,
       "__meta": {
         "name": "Very Many Players (Fabric)"
