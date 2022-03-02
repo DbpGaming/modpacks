@@ -41,8 +41,16 @@
       }
     },
     {
+      "projectID": 228525,
+      "fileID": 3669434,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf"
+      }
+    },
+    {
       "projectID": 233564,
-      "fileID": 3663041,
+      "fileID": 3667366,
       "required": true,
       "__meta": {
         "name": "Tech Reborn",
@@ -53,7 +61,7 @@
     },
     {
       "projectID": 237903,
-      "fileID": 3663042,
+      "fileID": 3667367,
       "required": true,
       "__meta": {
         "name": "Reborn Core",
@@ -84,7 +92,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3648601,
+      "fileID": 3669327,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -100,7 +108,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3616323,
+      "fileID": 3669346,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -143,7 +151,7 @@
     },
     {
       "projectID": 282313,
-      "fileID": 3649236,
+      "fileID": 3669372,
       "required": true,
       "__meta": {
         "name": "TipTheScales"
@@ -191,7 +199,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 3570652,
+      "fileID": 3668801,
       "required": true,
       "__meta": {
         "name": "Mod Menu"
@@ -218,7 +226,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3666977,
+      "fileID": 3669526,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -251,7 +259,7 @@
     },
     {
       "projectID": 312289,
-      "fileID": 3579286,
+      "fileID": 3668473,
       "required": true,
       "__meta": {
         "name": "Blockus",
@@ -273,7 +281,7 @@
     },
     {
       "projectID": 317121,
-      "fileID": 3612123,
+      "fileID": 3668284,
       "required": true,
       "__meta": {
         "name": "Cloth API (Fabric)"
@@ -347,7 +355,7 @@
     },
     {
       "projectID": 325492,
-      "fileID": 3552777,
+      "fileID": 3668243,
       "required": true,
       "__meta": {
         "name": "Light Overlay (Rift/Forge/Fabric)",
@@ -382,8 +390,7 @@
       "fileID": 3629559,
       "required": true,
       "__meta": {
-        "name": "Trinkets (Fabric)",
-        "explicit": false
+        "name": "Trinkets (Fabric)"
       }
     },
     {
@@ -587,7 +594,7 @@
     },
     {
       "projectID": 377109,
-      "fileID": 3631576,
+      "fileID": 3668167,
       "required": true,
       "__meta": {
         "name": "Tool Stats"
@@ -719,7 +726,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 3652966,
+      "fileID": 3669039,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Fabric)",
@@ -813,7 +820,7 @@
     },
     {
       "projectID": 394468,
-      "fileID": 3605309,
+      "fileID": 3669187,
       "required": true,
       "__meta": {
         "name": "Sodium"
@@ -1107,7 +1114,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3665967,
+      "fileID": 3669517,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -1118,7 +1125,7 @@
     },
     {
       "projectID": 420709,
-      "fileID": 3592089,
+      "fileID": 3669102,
       "required": true,
       "__meta": {
         "name": "Bits And Chisels"
@@ -1183,7 +1190,7 @@
     },
     {
       "projectID": 428912,
-      "fileID": 3559150,
+      "fileID": 3668215,
       "required": true,
       "__meta": {
         "name": "Krypton"
@@ -1304,7 +1311,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3667962,
+      "fileID": 3669571,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1342,7 +1349,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 3652095,
+      "fileID": 3669692,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -1353,7 +1360,7 @@
     },
     {
       "projectID": 448231,
-      "fileID": 3667326,
+      "fileID": 3668511,
       "required": true,
       "__meta": {
         "name": "FTB Ultimine (Fabric)",
@@ -1416,7 +1423,7 @@
     },
     {
       "projectID": 455508,
-      "fileID": 3612857,
+      "fileID": 3669331,
       "required": true,
       "__meta": {
         "name": "Iris Shaders",
@@ -1472,7 +1479,7 @@
     },
     {
       "projectID": 459496,
-      "fileID": 3667666,
+      "fileID": 3669436,
       "required": true,
       "__meta": {
         "name": "Indium",
@@ -1781,7 +1788,7 @@
     },
     {
       "projectID": 511319,
-      "fileID": 3622245,
+      "fileID": 3669685,
       "required": true,
       "__meta": {
         "name": "Reese's Sodium Options",
@@ -2025,7 +2032,7 @@
     },
     {
       "projectID": 536984,
-      "fileID": 3600965,
+      "fileID": 3669461,
       "required": true,
       "__meta": {
         "name": "St'ructure Tools",
@@ -2190,7 +2197,7 @@
     },
     {
       "projectID": 552542,
-      "fileID": 3614398,
+      "fileID": 3669618,
       "required": true,
       "__meta": {
         "name": "Very Many Players (Fabric)"
@@ -2398,7 +2405,7 @@
     },
     {
       "projectID": 567114,
-      "fileID": 3662028,
+      "fileID": 3668084,
       "required": true,
       "__meta": {
         "name": "The Extractinator (Fabric)",
@@ -2441,14 +2448,6 @@
       }
     },
     {
-      "projectID": 570368,
-      "fileID": 3642895,
-      "required": true,
-      "__meta": {
-        "name": "Raised"
-      }
-    },
-    {
       "projectID": 571035,
       "fileID": 3646389,
       "required": true,
@@ -2469,7 +2468,7 @@
     },
     {
       "projectID": 571503,
-      "fileID": 3651844,
+      "fileID": 3668903,
       "required": true,
       "__meta": {
         "name": "Guard Villagers (Fabric)",
