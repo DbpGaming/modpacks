@@ -40,6 +40,26 @@
       }
     },
     {
+      "projectID": 233564,
+      "fileID": 3667366,
+      "required": true,
+      "__meta": {
+        "name": "Tech Reborn",
+        "dependencies": [
+          237903
+        ]
+      }
+    },
+    {
+      "projectID": 237903,
+      "fileID": 3667367,
+      "required": true,
+      "__meta": {
+        "name": "Reborn Core",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 242064,
       "fileID": 3615858,
       "required": true,
