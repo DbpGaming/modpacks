@@ -672,7 +672,7 @@
     },
     {
       "projectID": 420709,
-      "fileID": 3592089,
+      "fileID": 3669102,
       "required": true,
       "__meta": {
         "name": "Bits And Chisels"
@@ -1223,7 +1223,7 @@
     },
     {
       "projectID": 536984,
-      "fileID": 3600965,
+      "fileID": 3669461,
       "required": true,
       "__meta": {
         "name": "St'ructure Tools",
@@ -1440,7 +1440,7 @@
     },
     {
       "projectID": 571503,
-      "fileID": 3651844,
+      "fileID": 3668903,
       "required": true,
       "__meta": {
         "name": "Guard Villagers (Fabric)",
