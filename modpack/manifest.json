@@ -2257,17 +2257,6 @@
       }
     },
     {
-      "projectID": 556408,
-      "fileID": 3607814,
-      "required": true,
-      "__meta": {
-        "name": "Sodium Shadowy Path Blocks",
-        "dependencies": [
-          394468
-        ]
-      }
-    },
-    {
       "projectID": 556967,
       "fileID": 3631776,
       "required": true,
@@ -2331,14 +2320,6 @@
           319057,
           306612
         ]
-      }
-    },
-    {
-      "projectID": 560323,
-      "fileID": 3665605,
-      "required": true,
-      "__meta": {
-        "name": "Feature NBT Deadlock Be Gone"
       }
     },
     {
