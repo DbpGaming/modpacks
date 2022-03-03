@@ -206,7 +206,7 @@
     },
     {
       "projectID": 312289,
-      "fileID": 3668473,
+      "fileID": 3670094,
       "required": true,
       "__meta": {
         "name": "Blockus",
@@ -299,7 +299,7 @@
     },
     {
       "projectID": 341284,
-      "fileID": 3629559,
+      "fileID": 3669842,
       "required": true,
       "__meta": {
         "name": "Trinkets (Fabric)"
@@ -449,7 +449,7 @@
     },
     {
       "projectID": 380649,
-      "fileID": 3650376,
+      "fileID": 3670844,
       "required": true,
       "__meta": {
         "name": "Fabric Shield Lib",
@@ -570,7 +570,7 @@
     },
     {
       "projectID": 395864,
-      "fileID": 3666185,
+      "fileID": 3670981,
       "required": true,
       "__meta": {
         "name": "KubeJS (Fabric)",
