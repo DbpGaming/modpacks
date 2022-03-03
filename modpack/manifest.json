@@ -149,7 +149,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3669526,
+      "fileID": 3670487,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -278,7 +278,7 @@
     },
     {
       "projectID": 360438,
-      "fileID": 3659182,
+      "fileID": 3670312,
       "required": true,
       "__meta": {
         "name": "Lithium (Fabric)"
@@ -430,7 +430,7 @@
     },
     {
       "projectID": 397510,
-      "fileID": 3646095,
+      "fileID": 3670634,
       "required": true,
       "__meta": {
         "name": "Carpet TIS Addition",
