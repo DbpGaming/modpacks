@@ -78,6 +78,17 @@
       }
     },
     {
+      "projectID": 262146,
+      "fileID": 3543427,
+      "required": true,
+      "__meta": {
+        "name": "Giselbaer's Durability Viewer",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 273279,
       "fileID": 3543423,
       "required": true,
@@ -102,6 +113,17 @@
       "required": true,
       "__meta": {
         "name": "TipTheScales"
+      }
+    },
+    {
+      "projectID": 297344,
+      "fileID": 3643079,
+      "required": true,
+      "__meta": {
+        "name": "Tweakeroo",
+        "dependencies": [
+          303119
+        ]
       }
     },
     {
@@ -228,6 +250,14 @@
       }
     },
     {
+      "projectID": 344996,
+      "fileID": 3668857,
+      "required": true,
+      "__meta": {
+        "name": "EditSign (Forge&Fabric)"
+      }
+    },
+    {
       "projectID": 349239,
       "fileID": 3667635,
       "required": true,
@@ -258,11 +288,38 @@
       }
     },
     {
+      "projectID": 351393,
+      "fileID": 3551503,
+      "required": true,
+      "__meta": {
+        "name": "Horse Stats Vanilla (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 353890,
       "fileID": 3606828,
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Fabric)"
+      }
+    },
+    {
+      "projectID": 355747,
+      "fileID": 3543446,
+      "required": true,
+      "__meta": {
+        "name": "WorldTime"
+      }
+    },
+    {
+      "projectID": 355753,
+      "fileID": 3543444,
+      "required": true,
+      "__meta": {
+        "name": "StepUpNext"
       }
     },
     {
@@ -274,6 +331,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 357256,
+      "fileID": 3585804,
+      "required": true,
+      "__meta": {
+        "name": "Beenfo"
       }
     },
     {
@@ -362,6 +427,14 @@
       }
     },
     {
+      "projectID": 390168,
+      "fileID": 3527187,
+      "required": true,
+      "__meta": {
+        "name": "XL Packets Fabric"
+      }
+    },
+    {
       "projectID": 391366,
       "fileID": 3669039,
       "required": true,
@@ -379,6 +452,14 @@
       "required": true,
       "__meta": {
         "name": "Reload Audio Driver (RAD) [Fabric]"
+      }
+    },
+    {
+      "projectID": 392440,
+      "fileID": 3530307,
+      "required": true,
+      "__meta": {
+        "name": "Night Vision flash be gone"
       }
     },
     {
@@ -460,6 +541,14 @@
       }
     },
     {
+      "projectID": 401648,
+      "fileID": 3667534,
+      "required": true,
+      "__meta": {
+        "name": "BetterF3"
+      }
+    },
+    {
       "projectID": 403815,
       "fileID": 3543420,
       "required": true,
@@ -476,6 +565,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 405262,
+      "fileID": 3543425,
+      "required": true,
+      "__meta": {
+        "name": "ClickThrough"
       }
     },
     {
@@ -496,6 +593,14 @@
       "required": true,
       "__meta": {
         "name": "ToolTipFix"
+      }
+    },
+    {
+      "projectID": 412568,
+      "fileID": 3544111,
+      "required": true,
+      "__meta": {
+        "name": "Erroring Entity Remover"
       }
     },
     {
@@ -527,6 +632,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 422316,
+      "fileID": 3345570,
+      "required": true,
+      "__meta": {
+        "name": "Advancements Debug"
       }
     },
     {
@@ -720,6 +833,41 @@
       }
     },
     {
+      "projectID": 463457,
+      "fileID": 3554833,
+      "required": true,
+      "__meta": {
+        "name": "Stendhal",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 466750,
+      "fileID": 3649311,
+      "required": true,
+      "__meta": {
+        "name": "HealthCare"
+      }
+    },
+    {
+      "projectID": 470990,
+      "fileID": 3351545,
+      "required": true,
+      "__meta": {
+        "name": "Why Am I on Fire?"
+      }
+    },
+    {
+      "projectID": 473492,
+      "fileID": 3487949,
+      "required": true,
+      "__meta": {
+        "name": "Recipe Cache"
+      }
+    },
+    {
       "projectID": 475358,
       "fileID": 3637536,
       "required": true,
@@ -736,6 +884,14 @@
       }
     },
     {
+      "projectID": 480257,
+      "fileID": 3561734,
+      "required": true,
+      "__meta": {
+        "name": "FabricSit"
+      }
+    },
+    {
       "projectID": 480684,
       "fileID": 3650507,
       "required": true,
@@ -746,6 +902,25 @@
           306612,
           319057
         ]
+      }
+    },
+    {
+      "projectID": 482160,
+      "fileID": 3551300,
+      "required": true,
+      "__meta": {
+        "name": "Boat Item View",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 484738,
+      "fileID": 3585630,
+      "required": true,
+      "__meta": {
+        "name": "Status Effect Timer"
       }
     },
     {
@@ -773,11 +948,35 @@
       }
     },
     {
+      "projectID": 492180,
+      "fileID": 3599578,
+      "required": true,
+      "__meta": {
+        "name": "Inspecio"
+      }
+    },
+    {
+      "projectID": 495267,
+      "fileID": 3669860,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Profiles Next"
+      }
+    },
+    {
       "projectID": 495693,
       "fileID": 3550299,
       "required": true,
       "__meta": {
         "name": "Farsight[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 496150,
+      "fileID": 3667385,
+      "required": true,
+      "__meta": {
+        "name": "DeathLog"
       }
     },
     {
@@ -789,6 +988,17 @@
         "dependencies": [
           306612,
           319057
+        ]
+      }
+    },
+    {
+      "projectID": 506898,
+      "fileID": 3668091,
+      "required": true,
+      "__meta": {
+        "name": "Detail Armor Bar [Fabric]",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -921,6 +1131,14 @@
       }
     },
     {
+      "projectID": 537533,
+      "fileID": 3502167,
+      "required": true,
+      "__meta": {
+        "name": "Ksyxis"
+      }
+    },
+    {
       "projectID": 546841,
       "fileID": 3570785,
       "required": true,
@@ -945,6 +1163,14 @@
         "dependencies": [
           500525
         ]
+      }
+    },
+    {
+      "projectID": 548115,
+      "fileID": 3542113,
+      "required": true,
+      "__meta": {
+        "name": "Alternate Current"
       }
     },
     {
@@ -987,6 +1213,18 @@
         "name": "Puzzle",
         "dependencies": [
           488090
+        ]
+      }
+    },
+    {
+      "projectID": 565968,
+      "fileID": 3669904,
+      "required": true,
+      "__meta": {
+        "name": "Blanket",
+        "dependencies": [
+          308702,
+          306612
         ]
       }
     },
