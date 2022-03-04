@@ -24,16 +24,8 @@
       }
     },
     {
-      "projectID": 228525,
-      "fileID": 3669434,
-      "required": true,
-      "__meta": {
-        "name": "Bookshelf"
-      }
-    },
-    {
       "projectID": 242064,
-      "fileID": 3615858,
+      "fileID": 3671377,
       "required": true,
       "__meta": {
         "name": "Item Scroller",
@@ -63,7 +55,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3669346,
+      "fileID": 3672161,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -75,25 +67,6 @@
       "required": true,
       "__meta": {
         "name": "EasierVillagerTrading"
-      }
-    },
-    {
-      "projectID": 262146,
-      "fileID": 3543427,
-      "required": true,
-      "__meta": {
-        "name": "Giselbaer's Durability Viewer",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 273279,
-      "fileID": 3543423,
-      "required": true,
-      "__meta": {
-        "name": "AntiGhost"
       }
     },
     {
@@ -117,7 +90,7 @@
     },
     {
       "projectID": 297344,
-      "fileID": 3643079,
+      "fileID": 3671393,
       "required": true,
       "__meta": {
         "name": "Tweakeroo",
@@ -128,7 +101,7 @@
     },
     {
       "projectID": 303119,
-      "fileID": 3647223,
+      "fileID": 3671371,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -136,7 +109,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3660981,
+      "fileID": 3671153,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -166,6 +139,17 @@
         "name": "Clear Despawn [Fabric]",
         "dependencies": [
           319057
+        ]
+      }
+    },
+    {
+      "projectID": 308892,
+      "fileID": 3671386,
+      "required": true,
+      "__meta": {
+        "name": "Litematica",
+        "dependencies": [
+          303119
         ]
       }
     },
@@ -307,22 +291,6 @@
       }
     },
     {
-      "projectID": 355747,
-      "fileID": 3543446,
-      "required": true,
-      "__meta": {
-        "name": "WorldTime"
-      }
-    },
-    {
-      "projectID": 355753,
-      "fileID": 3543444,
-      "required": true,
-      "__meta": {
-        "name": "StepUpNext"
-      }
-    },
-    {
       "projectID": 356643,
       "fileID": 3569439,
       "required": true,
@@ -331,14 +299,6 @@
         "dependencies": [
           306612
         ]
-      }
-    },
-    {
-      "projectID": 357256,
-      "fileID": 3585804,
-      "required": true,
-      "__meta": {
-        "name": "Beenfo"
       }
     },
     {
@@ -375,36 +335,10 @@
     },
     {
       "projectID": 377109,
-      "fileID": 3668167,
+      "fileID": 3631576,
       "required": true,
       "__meta": {
         "name": "Tool Stats"
-      }
-    },
-    {
-      "projectID": 378266,
-      "fileID": 3567077,
-      "required": true,
-      "__meta": {
-        "name": "Mo' Structures (Fabric)",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 380393,
-      "fileID": 3630010,
-      "required": true,
-      "__meta": {
-        "name": "'Slight' Gui Modifications",
-        "dependencies": [
-          319057,
-          317121,
-          463113,
-          419697,
-          306612
-        ]
       }
     },
     {
@@ -502,14 +436,6 @@
       }
     },
     {
-      "projectID": 397278,
-      "fileID": 3599030,
-      "required": true,
-      "__meta": {
-        "name": "Unlimited Dragon Eggs (Fabric)"
-      }
-    },
-    {
       "projectID": 397510,
       "fileID": 3670634,
       "required": true,
@@ -526,18 +452,6 @@
       "required": true,
       "__meta": {
         "name": "Item Model Fix (Fabric)"
-      }
-    },
-    {
-      "projectID": 400322,
-      "fileID": 3584355,
-      "required": true,
-      "__meta": {
-        "name": "LambdaBetterGrass",
-        "dependencies": [
-          308702,
-          306612
-        ]
       }
     },
     {
@@ -558,21 +472,13 @@
     },
     {
       "projectID": 404870,
-      "fileID": 3637125,
+      "fileID": 3672013,
       "required": true,
       "__meta": {
         "name": "Fabrishot",
         "dependencies": [
           306612
         ]
-      }
-    },
-    {
-      "projectID": 405262,
-      "fileID": 3543425,
-      "required": true,
-      "__meta": {
-        "name": "ClickThrough"
       }
     },
     {
@@ -604,31 +510,11 @@
       }
     },
     {
-      "projectID": 415758,
-      "fileID": 3549723,
-      "required": true,
-      "__meta": {
-        "name": "Smooth Boot (Fabric)"
-      }
-    },
-    {
       "projectID": 419697,
-      "fileID": 3669517,
+      "fileID": 3671589,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 421649,
-      "fileID": 3638215,
-      "required": true,
-      "__meta": {
-        "name": "YUNG's API (Fabric)",
-        "explicit": false,
         "dependencies": [
           306612
         ]
@@ -651,14 +537,6 @@
         "dependencies": [
           306612
         ]
-      }
-    },
-    {
-      "projectID": 423659,
-      "fileID": 3542784,
-      "required": true,
-      "__meta": {
-        "name": "Vistas"
       }
     },
     {
@@ -702,14 +580,6 @@
       "required": true,
       "__meta": {
         "name": "Better Sodium Video Settings Button"
-      }
-    },
-    {
-      "projectID": 437779,
-      "fileID": 3578820,
-      "required": true,
-      "__meta": {
-        "name": "Dimension Fix (Some Forge Patches Ported)"
       }
     },
     {
@@ -759,17 +629,6 @@
       "required": true,
       "__meta": {
         "name": "Entity Culling Fabric/Forge",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 452046,
-      "fileID": 3557031,
-      "required": true,
-      "__meta": {
-        "name": "Enhanced Block Entities",
         "dependencies": [
           306612
         ]
@@ -826,7 +685,7 @@
     },
     {
       "projectID": 459857,
-      "fileID": 3652642,
+      "fileID": 3672143,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
@@ -852,14 +711,6 @@
       }
     },
     {
-      "projectID": 470990,
-      "fileID": 3351545,
-      "required": true,
-      "__meta": {
-        "name": "Why Am I on Fire?"
-      }
-    },
-    {
       "projectID": 473492,
       "fileID": 3487949,
       "required": true,
@@ -881,27 +732,6 @@
       "required": true,
       "__meta": {
         "name": "Custom Entity Models (CEM)"
-      }
-    },
-    {
-      "projectID": 480257,
-      "fileID": 3561734,
-      "required": true,
-      "__meta": {
-        "name": "FabricSit"
-      }
-    },
-    {
-      "projectID": 480684,
-      "fileID": 3650507,
-      "required": true,
-      "__meta": {
-        "name": "YUNG's Better Strongholds (Fabric)",
-        "dependencies": [
-          421649,
-          306612,
-          319057
-        ]
       }
     },
     {
@@ -949,7 +779,7 @@
     },
     {
       "projectID": 492180,
-      "fileID": 3599578,
+      "fileID": 3671909,
       "required": true,
       "__meta": {
         "name": "Inspecio"
@@ -989,14 +819,6 @@
           306612,
           319057
         ]
-      }
-    },
-    {
-      "projectID": 501198,
-      "fileID": 3642129,
-      "required": true,
-      "__meta": {
-        "name": "BFAPI"
       }
     },
     {
@@ -1069,16 +891,8 @@
       }
     },
     {
-      "projectID": 521427,
-      "fileID": 3609263,
-      "required": true,
-      "__meta": {
-        "name": "CIT Resewn"
-      }
-    },
-    {
       "projectID": 521480,
-      "fileID": 3635467,
+      "fileID": 3672241,
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
@@ -1106,17 +920,6 @@
       "required": true,
       "__meta": {
         "name": "Language Reload"
-      }
-    },
-    {
-      "projectID": 531351,
-      "fileID": 3655794,
-      "required": true,
-      "__meta": {
-        "name": "Continuity",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -1160,17 +963,6 @@
       "required": true,
       "__meta": {
         "name": "WMITAF"
-      }
-    },
-    {
-      "projectID": 547692,
-      "fileID": 3666466,
-      "required": true,
-      "__meta": {
-        "name": "Client Tweaks (Fabric Edition)",
-        "dependencies": [
-          500525
-        ]
       }
     },
     {
@@ -1233,18 +1025,6 @@
         "dependencies": [
           308702,
           306612
-        ]
-      }
-    },
-    {
-      "projectID": 568059,
-      "fileID": 3609057,
-      "required": true,
-      "__meta": {
-        "name": "Restock",
-        "dependencies": [
-          306612,
-          308769
         ]
       }
     },
