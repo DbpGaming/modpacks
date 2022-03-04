@@ -810,18 +810,6 @@
       }
     },
     {
-      "projectID": 500525,
-      "fileID": 3658027,
-      "required": true,
-      "__meta": {
-        "name": "Balm (Fabric Edition)",
-        "dependencies": [
-          306612,
-          319057
-        ]
-      }
-    },
-    {
       "projectID": 506898,
       "fileID": 3668091,
       "required": true,
