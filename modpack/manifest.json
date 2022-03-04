@@ -1145,14 +1145,6 @@
       }
     },
     {
-      "projectID": 510262,
-      "fileID": 3642569,
-      "required": true,
-      "__meta": {
-        "name": "XP Obelisk"
-      }
-    },
-    {
       "projectID": 511319,
       "fileID": 3669685,
       "required": true,
