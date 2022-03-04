@@ -211,17 +211,6 @@
       }
     },
     {
-      "projectID": 312289,
-      "fileID": 3670094,
-      "required": true,
-      "__meta": {
-        "name": "Blockus",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 313219,
       "fileID": 3563686,
       "required": true,
@@ -238,17 +227,6 @@
       "required": true,
       "__meta": {
         "name": "Cloth API (Fabric)"
-      }
-    },
-    {
-      "projectID": 317756,
-      "fileID": 3575049,
-      "required": true,
-      "__meta": {
-        "name": "Vanilla Hammers",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -312,14 +290,6 @@
       }
     },
     {
-      "projectID": 341772,
-      "fileID": 3612783,
-      "required": true,
-      "__meta": {
-        "name": "Vanilla Excavators"
-      }
-    },
-    {
       "projectID": 344996,
       "fileID": 3668857,
       "required": true,
@@ -369,30 +339,11 @@
       }
     },
     {
-      "projectID": 351973,
-      "fileID": 3574980,
-      "required": true,
-      "__meta": {
-        "name": "Snowdrift"
-      }
-    },
-    {
       "projectID": 353890,
       "fileID": 3606828,
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Fabric)"
-      }
-    },
-    {
-      "projectID": 355914,
-      "fileID": 3578809,
-      "required": true,
-      "__meta": {
-        "name": "Improved Stations (Fabric)",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -444,18 +395,6 @@
       "required": true,
       "__meta": {
         "name": "Tool Stats"
-      }
-    },
-    {
-      "projectID": 380649,
-      "fileID": 3671171,
-      "required": true,
-      "__meta": {
-        "name": "Fabric Shield Lib",
-        "explicit": false,
-        "dependencies": [
-          319057
-        ]
       }
     },
     {
@@ -584,19 +523,6 @@
       }
     },
     {
-      "projectID": 395864,
-      "fileID": 3670981,
-      "required": true,
-      "__meta": {
-        "name": "KubeJS (Fabric)",
-        "dependencies": [
-          306612,
-          419697,
-          416294
-        ]
-      }
-    },
-    {
       "projectID": 397510,
       "fileID": 3670634,
       "required": true,
@@ -668,18 +594,6 @@
       "required": true,
       "__meta": {
         "name": "Erroring Entity Remover"
-      }
-    },
-    {
-      "projectID": 416294,
-      "fileID": 3647780,
-      "required": true,
-      "__meta": {
-        "name": "Rhino",
-        "explicit": false,
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -867,19 +781,6 @@
       }
     },
     {
-      "projectID": 448231,
-      "fileID": 3668511,
-      "required": true,
-      "__meta": {
-        "name": "FTB Ultimine (Fabric)",
-        "dependencies": [
-          306612,
-          419697,
-          438495
-        ]
-      }
-    },
-    {
       "projectID": 448233,
       "fileID": 3642143,
       "required": true,
@@ -929,14 +830,6 @@
       }
     },
     {
-      "projectID": 456956,
-      "fileID": 3606249,
-      "required": true,
-      "__meta": {
-        "name": "Chipped"
-      }
-    },
-    {
       "projectID": 459496,
       "fileID": 3669436,
       "required": true,
@@ -972,20 +865,6 @@
       "required": true,
       "__meta": {
         "name": "HealthCare"
-      }
-    },
-    {
-      "projectID": 472657,
-      "fileID": 3627153,
-      "required": true,
-      "__meta": {
-        "name": "FTB Chunks (Fabric)",
-        "dependencies": [
-          419697,
-          306612,
-          438495,
-          438497
-        ]
       }
     },
     {
@@ -1096,18 +975,6 @@
       "required": true,
       "__meta": {
         "name": "DeathLog"
-      }
-    },
-    {
-      "projectID": 504045,
-      "fileID": 3545041,
-      "required": true,
-      "__meta": {
-        "name": "KubeJS Extras",
-        "dependencies": [
-          310111,
-          395864
-        ]
       }
     },
     {
@@ -1260,17 +1127,6 @@
       }
     },
     {
-      "projectID": 538011,
-      "fileID": 3594300,
-      "required": true,
-      "__meta": {
-        "name": "Basic Shields [Fabric]",
-        "dependencies": [
-          380649
-        ]
-      }
-    },
-    {
       "projectID": 546841,
       "fileID": 3570785,
       "required": true,
@@ -1287,53 +1143,11 @@
       }
     },
     {
-      "projectID": 547695,
-      "fileID": 3549467,
-      "required": true,
-      "__meta": {
-        "name": "KleeSlabs (Fabric Edition)",
-        "dependencies": [
-          500525
-        ]
-      }
-    },
-    {
-      "projectID": 547696,
-      "fileID": 3549514,
-      "required": true,
-      "__meta": {
-        "name": "NetherPortalFix (Fabric Edition)",
-        "dependencies": [
-          500525
-        ]
-      }
-    },
-    {
-      "projectID": 547699,
-      "fileID": 3550139,
-      "required": true,
-      "__meta": {
-        "name": "Inventory Essentials (Fabric Edition)",
-        "dependencies": [
-          500525,
-          500525
-        ]
-      }
-    },
-    {
       "projectID": 548115,
       "fileID": 3542113,
       "required": true,
       "__meta": {
         "name": "Alternate Current"
-      }
-    },
-    {
-      "projectID": 551763,
-      "fileID": 3578088,
-      "required": true,
-      "__meta": {
-        "name": "Chisel Refabricated"
       }
     },
     {
@@ -1358,18 +1172,6 @@
       "required": true,
       "__meta": {
         "name": "Fixed Waterlogging"
-      }
-    },
-    {
-      "projectID": 559012,
-      "fileID": 3580790,
-      "required": true,
-      "__meta": {
-        "name": "EntityFireSpread",
-        "dependencies": [
-          306612,
-          308769
-        ]
       }
     },
     {
@@ -1443,17 +1245,6 @@
       }
     },
     {
-      "projectID": 571170,
-      "fileID": 3618357,
-      "required": true,
-      "__meta": {
-        "name": "GameBlocks",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 571503,
       "fileID": 3668903,
       "required": true,
@@ -1462,17 +1253,6 @@
         "dependencies": [
           306612,
           319057
-        ]
-      }
-    },
-    {
-      "projectID": 576449,
-      "fileID": 3637978,
-      "required": true,
-      "__meta": {
-        "name": "Coxinha Utilities",
-        "dependencies": [
-          306612
         ]
       }
     },
