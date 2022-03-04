@@ -33,7 +33,7 @@
     },
     {
       "projectID": 233564,
-      "fileID": 3667366,
+      "fileID": 3672447,
       "required": true,
       "__meta": {
         "name": "Tech Reborn",
@@ -44,7 +44,7 @@
     },
     {
       "projectID": 237903,
-      "fileID": 3667367,
+      "fileID": 3672448,
       "required": true,
       "__meta": {
         "name": "Reborn Core",
@@ -358,14 +358,6 @@
       }
     },
     {
-      "projectID": 351973,
-      "fileID": 3574980,
-      "required": true,
-      "__meta": {
-        "name": "Snowdrift"
-      }
-    },
-    {
       "projectID": 351393,
       "fileID": 3551503,
       "required": true,
@@ -374,6 +366,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 351973,
+      "fileID": 3574980,
+      "required": true,
+      "__meta": {
+        "name": "Snowdrift"
       }
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "projectID": 380649,
-      "fileID": 3670844,
+      "fileID": 3671171,
       "required": true,
       "__meta": {
         "name": "Fabric Shield Lib",
@@ -468,7 +468,7 @@
     },
     {
       "projectID": 388832,
-      "fileID": 3667194,
+      "fileID": 3671408,
       "required": true,
       "__meta": {
         "name": "Kibe Utilities",
@@ -956,20 +956,6 @@
       }
     },
     {
-      "projectID": 472657,
-      "fileID": 3627153,
-      "required": true,
-      "__meta": {
-        "name": "FTB Chunks (Fabric)",
-        "dependencies": [
-          419697,
-          306612,
-          438495,
-          438497
-        ]
-      }
-    },
-    {
       "projectID": 463457,
       "fileID": 3554833,
       "required": true,
@@ -986,6 +972,20 @@
       "required": true,
       "__meta": {
         "name": "HealthCare"
+      }
+    },
+    {
+      "projectID": 472657,
+      "fileID": 3627153,
+      "required": true,
+      "__meta": {
+        "name": "FTB Chunks (Fabric)",
+        "dependencies": [
+          419697,
+          306612,
+          438495,
+          438497
+        ]
       }
     },
     {
@@ -1099,17 +1099,6 @@
       }
     },
     {
-      "projectID": 506898,
-      "fileID": 3668091,
-      "required": true,
-      "__meta": {
-        "name": "Detail Armor Bar [Fabric]",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 504045,
       "fileID": 3545041,
       "required": true,
@@ -1118,6 +1107,17 @@
         "dependencies": [
           310111,
           395864
+        ]
+      }
+    },
+    {
+      "projectID": 506898,
+      "fileID": 3668091,
+      "required": true,
+      "__meta": {
+        "name": "Detail Armor Bar [Fabric]",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -1260,6 +1260,14 @@
       }
     },
     {
+      "projectID": 537533,
+      "fileID": 3502167,
+      "required": true,
+      "__meta": {
+        "name": "Ksyxis"
+      }
+    },
+    {
       "projectID": 538011,
       "fileID": 3594300,
       "required": true,
@@ -1268,14 +1276,6 @@
         "dependencies": [
           380649
         ]
-      }
-    },
-    {
-      "projectID": 537533,
-      "fileID": 3502167,
-      "required": true,
-      "__meta": {
-        "name": "Ksyxis"
       }
     },
     {
@@ -1292,14 +1292,6 @@
       "required": true,
       "__meta": {
         "name": "WMITAF"
-      }
-    },
-    {
-      "projectID": 548115,
-      "fileID": 3542113,
-      "required": true,
-      "__meta": {
-        "name": "Alternate Current"
       }
     },
     {
@@ -1334,6 +1326,14 @@
           500525,
           500525
         ]
+      }
+    },
+    {
+      "projectID": 548115,
+      "fileID": 3542113,
+      "required": true,
+      "__meta": {
+        "name": "Alternate Current"
       }
     },
     {
@@ -1419,18 +1419,6 @@
       }
     },
     {
-      "projectID": 567114,
-      "fileID": 3668084,
-      "required": true,
-      "__meta": {
-        "name": "The Extractinator (Fabric)",
-        "dependencies": [
-          319057,
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 565968,
       "fileID": 3669904,
       "required": true,
@@ -1438,6 +1426,18 @@
         "name": "Blanket",
         "dependencies": [
           308702,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 567114,
+      "fileID": 3668084,
+      "required": true,
+      "__meta": {
+        "name": "The Extractinator (Fabric)",
+        "dependencies": [
+          319057,
           306612
         ]
       }
