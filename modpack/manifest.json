@@ -41,16 +41,8 @@
       }
     },
     {
-      "projectID": 228525,
-      "fileID": 3669434,
-      "required": true,
-      "__meta": {
-        "name": "Bookshelf"
-      }
-    },
-    {
       "projectID": 233564,
-      "fileID": 3667366,
+      "fileID": 3672447,
       "required": true,
       "__meta": {
         "name": "Tech Reborn",
@@ -61,7 +53,7 @@
     },
     {
       "projectID": 237903,
-      "fileID": 3667367,
+      "fileID": 3672448,
       "required": true,
       "__meta": {
         "name": "Reborn Core",
@@ -70,7 +62,7 @@
     },
     {
       "projectID": 242064,
-      "fileID": 3615858,
+      "fileID": 3671377,
       "required": true,
       "__meta": {
         "name": "Item Scroller",
@@ -108,7 +100,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3669346,
+      "fileID": 3672161,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -120,14 +112,6 @@
       "required": true,
       "__meta": {
         "name": "EasierVillagerTrading"
-      }
-    },
-    {
-      "projectID": 273279,
-      "fileID": 3543423,
-      "required": true,
-      "__meta": {
-        "name": "AntiGhost"
       }
     },
     {
@@ -170,8 +154,19 @@
       }
     },
     {
+      "projectID": 297344,
+      "fileID": 3671393,
+      "required": true,
+      "__meta": {
+        "name": "Tweakeroo",
+        "dependencies": [
+          303119
+        ]
+      }
+    },
+    {
       "projectID": 303119,
-      "fileID": 3647223,
+      "fileID": 3671371,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -191,7 +186,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3660981,
+      "fileID": 3671153,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -225,8 +220,19 @@
       }
     },
     {
+      "projectID": 308892,
+      "fileID": 3671386,
+      "required": true,
+      "__meta": {
+        "name": "Litematica",
+        "dependencies": [
+          303119
+        ]
+      }
+    },
+    {
       "projectID": 310111,
-      "fileID": 3669526,
+      "fileID": 3670487,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -258,17 +264,6 @@
       }
     },
     {
-      "projectID": 312289,
-      "fileID": 3668473,
-      "required": true,
-      "__meta": {
-        "name": "Blockus",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 313219,
       "fileID": 3563686,
       "required": true,
@@ -285,17 +280,6 @@
       "required": true,
       "__meta": {
         "name": "Cloth API (Fabric)"
-      }
-    },
-    {
-      "projectID": 317756,
-      "fileID": 3575049,
-      "required": true,
-      "__meta": {
-        "name": "Vanilla Hammers",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -398,18 +382,18 @@
     },
     {
       "projectID": 341284,
-      "fileID": 3629559,
+      "fileID": 3669842,
       "required": true,
       "__meta": {
         "name": "Trinkets (Fabric)"
       }
     },
     {
-      "projectID": 341772,
-      "fileID": 3612783,
+      "projectID": 344996,
+      "fileID": 3668857,
       "required": true,
       "__meta": {
-        "name": "Vanilla Excavators"
+        "name": "EditSign (Forge&Fabric)"
       }
     },
     {
@@ -454,22 +438,22 @@
       }
     },
     {
+      "projectID": 351393,
+      "fileID": 3551503,
+      "required": true,
+      "__meta": {
+        "name": "Horse Stats Vanilla (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 353890,
       "fileID": 3606828,
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Fabric)"
-      }
-    },
-    {
-      "projectID": 355914,
-      "fileID": 3578809,
-      "required": true,
-      "__meta": {
-        "name": "Improved Stations (Fabric)",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -485,7 +469,7 @@
     },
     {
       "projectID": 360438,
-      "fileID": 3659182,
+      "fileID": 3670312,
       "required": true,
       "__meta": {
         "name": "Lithium (Fabric)"
@@ -605,48 +589,10 @@
     },
     {
       "projectID": 377109,
-      "fileID": 3668167,
+      "fileID": 3631576,
       "required": true,
       "__meta": {
         "name": "Tool Stats"
-      }
-    },
-    {
-      "projectID": 378266,
-      "fileID": 3567077,
-      "required": true,
-      "__meta": {
-        "name": "Mo' Structures (Fabric)",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 380393,
-      "fileID": 3630010,
-      "required": true,
-      "__meta": {
-        "name": "'Slight' Gui Modifications",
-        "dependencies": [
-          319057,
-          317121,
-          463113,
-          419697,
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 380649,
-      "fileID": 3650376,
-      "required": true,
-      "__meta": {
-        "name": "Fabric Shield Lib",
-        "explicit": false,
-        "dependencies": [
-          319057
-        ]
       }
     },
     {
@@ -691,7 +637,7 @@
     },
     {
       "projectID": 388832,
-      "fileID": 3667194,
+      "fileID": 3671408,
       "required": true,
       "__meta": {
         "name": "Kibe Utilities",
@@ -736,6 +682,14 @@
       }
     },
     {
+      "projectID": 390168,
+      "fileID": 3527187,
+      "required": true,
+      "__meta": {
+        "name": "XL Packets Fabric"
+      }
+    },
+    {
       "projectID": 391366,
       "fileID": 3669039,
       "required": true,
@@ -777,6 +731,14 @@
           308769,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 392440,
+      "fileID": 3530307,
+      "required": true,
+      "__meta": {
+        "name": "Night Vision flash be gone"
       }
     },
     {
@@ -864,19 +826,6 @@
       }
     },
     {
-      "projectID": 395864,
-      "fileID": 3666185,
-      "required": true,
-      "__meta": {
-        "name": "KubeJS (Fabric)",
-        "dependencies": [
-          306612,
-          419697,
-          416294
-        ]
-      }
-    },
-    {
       "projectID": 396300,
       "fileID": 3652537,
       "required": true,
@@ -886,7 +835,7 @@
     },
     {
       "projectID": 397510,
-      "fileID": 3646095,
+      "fileID": 3670634,
       "required": true,
       "__meta": {
         "name": "Carpet TIS Addition",
@@ -904,6 +853,22 @@
         "dependencies": [
           341284
         ]
+      }
+    },
+    {
+      "projectID": 399798,
+      "fileID": 3573935,
+      "required": true,
+      "__meta": {
+        "name": "Item Model Fix (Fabric)"
+      }
+    },
+    {
+      "projectID": 401648,
+      "fileID": 3667534,
+      "required": true,
+      "__meta": {
+        "name": "BetterF3"
       }
     },
     {
@@ -959,15 +924,11 @@
       }
     },
     {
-      "projectID": 400322,
-      "fileID": 3584355,
+      "projectID": 412568,
+      "fileID": 3544111,
       "required": true,
       "__meta": {
-        "name": "LambdaBetterGrass",
-        "dependencies": [
-          308702,
-          306612
-        ]
+        "name": "Erroring Entity Remover"
       }
     },
     {
@@ -1143,15 +1104,11 @@
       }
     },
     {
-      "projectID": 421649,
-      "fileID": 3638215,
+      "projectID": 422316,
+      "fileID": 3345570,
       "required": true,
       "__meta": {
-        "name": "YUNG's API (Fabric)",
-        "explicit": false,
-        "dependencies": [
-          306612
-        ]
+        "name": "Advancements Debug"
       }
     },
     {
@@ -1189,14 +1146,6 @@
         "dependencies": [
           306612
         ]
-      }
-    },
-    {
-      "projectID": 423659,
-      "fileID": 3542784,
-      "required": true,
-      "__meta": {
-        "name": "Vistas"
       }
     },
     {
@@ -1256,14 +1205,6 @@
       "required": true,
       "__meta": {
         "name": "Better Sodium Video Settings Button"
-      }
-    },
-    {
-      "projectID": 437779,
-      "fileID": 3578820,
-      "required": true,
-      "__meta": {
-        "name": "Dimension Fix (Some Forge Patches Ported)"
       }
     },
     {
@@ -1370,19 +1311,6 @@
       }
     },
     {
-      "projectID": 448231,
-      "fileID": 3668511,
-      "required": true,
-      "__meta": {
-        "name": "FTB Ultimine (Fabric)",
-        "dependencies": [
-          306612,
-          419697,
-          438495
-        ]
-      }
-    },
-    {
       "projectID": 448233,
       "fileID": 3642143,
       "required": true,
@@ -1402,17 +1330,6 @@
         "dependencies": [
           306612,
           308769
-        ]
-      }
-    },
-    {
-      "projectID": 452046,
-      "fileID": 3557031,
-      "required": true,
-      "__meta": {
-        "name": "Enhanced Block Entities",
-        "dependencies": [
-          306612
         ]
       }
     },
@@ -1481,14 +1398,6 @@
       }
     },
     {
-      "projectID": 456956,
-      "fileID": 3606249,
-      "required": true,
-      "__meta": {
-        "name": "Chipped"
-      }
-    },
-    {
       "projectID": 459496,
       "fileID": 3669436,
       "required": true,
@@ -1501,7 +1410,7 @@
     },
     {
       "projectID": 459857,
-      "fileID": 3652642,
+      "fileID": 3672143,
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
@@ -1553,17 +1462,30 @@
       }
     },
     {
-      "projectID": 472657,
-      "fileID": 3627153,
+      "projectID": 463457,
+      "fileID": 3554833,
       "required": true,
       "__meta": {
-        "name": "FTB Chunks (Fabric)",
+        "name": "Stendhal",
         "dependencies": [
-          419697,
-          306612,
-          438495,
-          438497
+          306612
         ]
+      }
+    },
+    {
+      "projectID": 466750,
+      "fileID": 3649311,
+      "required": true,
+      "__meta": {
+        "name": "HealthCare"
+      }
+    },
+    {
+      "projectID": 473492,
+      "fileID": 3487949,
+      "required": true,
+      "__meta": {
+        "name": "Recipe Cache"
       }
     },
     {
@@ -1617,15 +1539,13 @@
       }
     },
     {
-      "projectID": 480684,
-      "fileID": 3650507,
+      "projectID": 482160,
+      "fileID": 3551300,
       "required": true,
       "__meta": {
-        "name": "YUNG's Better Strongholds (Fabric)",
+        "name": "Boat Item View",
         "dependencies": [
-          421649,
-          306612,
-          319057
+          306612
         ]
       }
     },
@@ -1649,6 +1569,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 484738,
+      "fileID": 3585630,
+      "required": true,
+      "__meta": {
+        "name": "Status Effect Timer"
       }
     },
     {
@@ -1688,15 +1616,20 @@
       }
     },
     {
-      "projectID": 495191,
-      "fileID": 3650880,
+      "projectID": 495267,
+      "fileID": 3669860,
       "required": true,
       "__meta": {
-        "name": "BCLib",
-        "explicit": false,
-        "dependencies": [
-          306612
-        ]
+        "name": "Inventory Profiles Next"
+      }
+    },
+    {
+
+      "projectID": 492180,
+      "fileID": 3671909,      
+      "required": true,
+      "__meta": {
+        "name": "Inspecio"
       }
     },
     {
@@ -1708,26 +1641,21 @@
       }
     },
     {
-      "projectID": 500525,
-      "fileID": 3658027,
+      "projectID": 496150,
+      "fileID": 3667385,
       "required": true,
       "__meta": {
-        "name": "Balm (Fabric Edition)",
-        "dependencies": [
-          306612,
-          319057
-        ]
+        "name": "DeathLog"
       }
     },
     {
-      "projectID": 504045,
-      "fileID": 3545041,
+      "projectID": 506898,
+      "fileID": 3668091,
       "required": true,
       "__meta": {
-        "name": "KubeJS Extras",
+        "name": "Detail Armor Bar [Fabric]",
         "dependencies": [
-          310111,
-          395864
+          306612
         ]
       }
     },
@@ -1787,14 +1715,6 @@
           308769,
           419697
         ]
-      }
-    },
-    {
-      "projectID": 510262,
-      "fileID": 3642569,
-      "required": true,
-      "__meta": {
-        "name": "XP Obelisk"
       }
     },
     {
@@ -1875,16 +1795,8 @@
       }
     },
     {
-      "projectID": 521427,
-      "fileID": 3609263,
-      "required": true,
-      "__meta": {
-        "name": "CIT Resewn"
-      }
-    },
-    {
       "projectID": 521480,
-      "fileID": 3635467,
+      "fileID": 3672241,
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
@@ -1965,17 +1877,6 @@
       "__meta": {
         "name": "NinjaPhenix's Container Library",
         "explicit": false
-      }
-    },
-    {
-      "projectID": 531351,
-      "fileID": 3655794,
-      "required": true,
-      "__meta": {
-        "name": "Continuity",
-        "dependencies": [
-          306612
-        ]
       }
     },
     {
@@ -2076,14 +1977,11 @@
       }
     },
     {
-      "projectID": 538011,
-      "fileID": 3594300,
+      "projectID": 537533,
+      "fileID": 3502167,
       "required": true,
       "__meta": {
-        "name": "Basic Shields [Fabric]",
-        "dependencies": [
-          380649
-        ]
+        "name": "Ksyxis"
       }
     },
     {
@@ -2127,48 +2025,11 @@
       }
     },
     {
-      "projectID": 547692,
-      "fileID": 3666466,
+      "projectID": 548115,
+      "fileID": 3542113,
       "required": true,
       "__meta": {
-        "name": "Client Tweaks (Fabric Edition)",
-        "dependencies": [
-          500525
-        ]
-      }
-    },
-    {
-      "projectID": 547695,
-      "fileID": 3549467,
-      "required": true,
-      "__meta": {
-        "name": "KleeSlabs (Fabric Edition)",
-        "dependencies": [
-          500525
-        ]
-      }
-    },
-    {
-      "projectID": 547696,
-      "fileID": 3549514,
-      "required": true,
-      "__meta": {
-        "name": "NetherPortalFix (Fabric Edition)",
-        "dependencies": [
-          500525
-        ]
-      }
-    },
-    {
-      "projectID": 547699,
-      "fileID": 3550139,
-      "required": true,
-      "__meta": {
-        "name": "Inventory Essentials (Fabric Edition)",
-        "dependencies": [
-          500525,
-          500525
-        ]
+        "name": "Alternate Current"
       }
     },
     {
@@ -2290,18 +2151,6 @@
       }
     },
     {
-      "projectID": 559012,
-      "fileID": 3580790,
-      "required": true,
-      "__meta": {
-        "name": "EntityFireSpread",
-        "dependencies": [
-          306612,
-          308769
-        ]
-      }
-    },
-    {
       "projectID": 560262,
       "fileID": 3652164,
       "required": true,
@@ -2396,6 +2245,18 @@
       }
     },
     {
+      "projectID": 565968,
+      "fileID": 3669904,
+      "required": true,
+      "__meta": {
+        "name": "Blanket",
+        "dependencies": [
+          308702,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 567114,
       "fileID": 3668084,
       "required": true,
@@ -2404,18 +2265,6 @@
         "dependencies": [
           319057,
           306612
-        ]
-      }
-    },
-    {
-      "projectID": 568059,
-      "fileID": 3609057,
-      "required": true,
-      "__meta": {
-        "name": "Restock",
-        "dependencies": [
-          306612,
-          308769
         ]
       }
     },
@@ -2448,17 +2297,6 @@
       }
     },
     {
-      "projectID": 571170,
-      "fileID": 3618357,
-      "required": true,
-      "__meta": {
-        "name": "GameBlocks",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 571503,
       "fileID": 3668903,
       "required": true,
@@ -2478,17 +2316,6 @@
         "name": "Earthbounds",
         "dependencies": [
           388172,
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 576449,
-      "fileID": 3637978,
-      "required": true,
-      "__meta": {
-        "name": "Coxinha Utilities",
-        "dependencies": [
           306612
         ]
       }
