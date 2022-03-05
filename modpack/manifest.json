@@ -155,7 +155,7 @@
     },
     {
       "projectID": 297344,
-      "fileID": 3671393,
+      "fileID": 3672640,
       "required": true,
       "__meta": {
         "name": "Tweakeroo",
@@ -593,6 +593,14 @@
       "required": true,
       "__meta": {
         "name": "Tool Stats"
+      }
+    },
+    {
+      "projectID": 380649,
+      "fileID": 3672635,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Shield Lib"
       }
     },
     {
@@ -1221,7 +1229,7 @@
     },
     {
       "projectID": 438496,
-      "fileID": 3627554,
+      "fileID": 3672857,
       "required": true,
       "__meta": {
         "name": "FTB Quests (Fabric)",
@@ -2053,7 +2061,7 @@
     },
     {
       "projectID": 551763,
-      "fileID": 3578088,
+      "fileID": 3672994,
       "required": true,
       "__meta": {
         "name": "Chisel Refabricated"
