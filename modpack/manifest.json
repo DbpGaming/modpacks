@@ -143,7 +143,7 @@
     },
     {
       "projectID": 286328,
-      "fileID": 3662439,
+      "fileID": 3667421,
       "required": true,
       "__meta": {
         "name": "RSWires",
@@ -296,7 +296,7 @@
     },
     {
       "projectID": 317995,
-      "fileID": 3540966,
+      "fileID": 3672601,
       "required": true,
       "__meta": {
         "name": "Lib Block Attributes",
@@ -339,7 +339,7 @@
     },
     {
       "projectID": 321014,
-      "fileID": 3661802,
+      "fileID": 3672807,
       "required": true,
       "__meta": {
         "name": "Redstone Bits",
@@ -406,7 +406,7 @@
     },
     {
       "projectID": 349240,
-      "fileID": 3542068,
+      "fileID": 3658004,
       "required": true,
       "__meta": {
         "name": "Carpet Extra",
@@ -517,7 +517,7 @@
     },
     {
       "projectID": 368765,
-      "fileID": 3662513,
+      "fileID": 3670763,
       "required": true,
       "__meta": {
         "name": "MCDoom",
@@ -542,7 +542,7 @@
     },
     {
       "projectID": 373261,
-      "fileID": 3095961,
+      "fileID": 3668220,
       "required": true,
       "__meta": {
         "name": "Auto Config Updated API",
@@ -633,7 +633,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3661790,
+      "fileID": 3667587,
       "required": true,
       "__meta": {
         "name": "GeckoLib",
@@ -678,8 +678,16 @@
       }
     },
     {
+      "projectID": 390168,
+      "fileID": 3527187,
+      "required": true,
+      "__meta": {
+        "name": "XL Packets Fabric"
+      }
+    },
+    {
       "projectID": 390991,
-      "fileID": 3595812,
+      "fileID": 3668628,
       "required": true,
       "__meta": {
         "name": "AdventureZ",
@@ -687,14 +695,6 @@
           319057,
           306612
         ]
-      }
-    },
-    {
-      "projectID": 390168,
-      "fileID": 3527187,
-      "required": true,
-      "__meta": {
-        "name": "XL Packets Fabric"
       }
     },
     {
@@ -711,7 +711,7 @@
     },
     {
       "projectID": 391378,
-      "fileID": 3659569,
+      "fileID": 3669458,
       "required": true,
       "__meta": {
         "name": "Oh The Biomes You'll Go Refabricated",
@@ -820,7 +820,7 @@
     },
     {
       "projectID": 394915,
-      "fileID": 3658194,
+      "fileID": 3672524,
       "required": true,
       "__meta": {
         "name": "Bewitchment",
@@ -861,22 +861,6 @@
         "dependencies": [
           341284
         ]
-      }
-    },
-    {
-      "projectID": 399798,
-      "fileID": 3573935,
-      "required": true,
-      "__meta": {
-        "name": "Item Model Fix (Fabric)"
-      }
-    },
-    {
-      "projectID": 401648,
-      "fileID": 3667534,
-      "required": true,
-      "__meta": {
-        "name": "BetterF3"
       }
     },
     {
@@ -932,11 +916,19 @@
       }
     },
     {
-      "projectID": 412568,
-      "fileID": 3544111,
+      "projectID": 399798,
+      "fileID": 3573935,
       "required": true,
       "__meta": {
-        "name": "Erroring Entity Remover"
+        "name": "Item Model Fix (Fabric)"
+      }
+    },
+    {
+      "projectID": 401648,
+      "fileID": 3667534,
+      "required": true,
+      "__meta": {
+        "name": "BetterF3"
       }
     },
     {
@@ -957,7 +949,7 @@
     },
     {
       "projectID": 403914,
-      "fileID": 3657867,
+      "fileID": 3668472,
       "required": true,
       "__meta": {
         "name": "Red Bits"
@@ -965,7 +957,7 @@
     },
     {
       "projectID": 404870,
-      "fileID": 3637125,
+      "fileID": 3672013,
       "required": true,
       "__meta": {
         "name": "Fabrishot",
@@ -1019,7 +1011,7 @@
     },
     {
       "projectID": 410902,
-      "fileID": 3575744,
+      "fileID": 3672659,
       "required": true,
       "__meta": {
         "name": "Fabric Waystones"
@@ -1042,6 +1034,14 @@
       }
     },
     {
+      "projectID": 412568,
+      "fileID": 3544111,
+      "required": true,
+      "__meta": {
+        "name": "Erroring Entity Remover"
+      }
+    },
+    {
       "projectID": 413596,
       "fileID": 3636291,
       "required": true,
@@ -1055,7 +1055,7 @@
     },
     {
       "projectID": 415438,
-      "fileID": 3656490,
+      "fileID": 3667796,
       "required": true,
       "__meta": {
         "name": "Croptopia [FABRIC/FORGE]"
@@ -1094,7 +1094,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3669517,
+      "fileID": 3671589,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -1112,14 +1112,6 @@
       }
     },
     {
-      "projectID": 422316,
-      "fileID": 3345570,
-      "required": true,
-      "__meta": {
-        "name": "Advancements Debug"
-      }
-    },
-    {
       "projectID": 421839,
       "fileID": 3664221,
       "required": true,
@@ -1134,7 +1126,7 @@
     },
     {
       "projectID": 422310,
-      "fileID": 3615193,
+      "fileID": 3667517,
       "required": true,
       "__meta": {
         "name": "Conjuring [Fabric/Forge]",
@@ -1143,6 +1135,14 @@
           393236,
           319057
         ]
+      }
+    },
+    {
+      "projectID": 422316,
+      "fileID": 3345570,
+      "required": true,
+      "__meta": {
+        "name": "Advancements Debug"
       }
     },
     {
@@ -1439,10 +1439,21 @@
     },
     {
       "projectID": 462672,
-      "fileID": 3622569,
+      "fileID": 3669494,
       "required": true,
       "__meta": {
         "name": "CC: Restitched"
+      }
+    },
+    {
+      "projectID": 463457,
+      "fileID": 3554833,
+      "required": true,
+      "__meta": {
+        "name": "Stendhal",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -1458,6 +1469,14 @@
       }
     },
     {
+      "projectID": 466750,
+      "fileID": 3649311,
+      "required": true,
+      "__meta": {
+        "name": "HealthCare"
+      }
+    },
+    {
       "projectID": 470149,
       "fileID": 3541351,
       "required": true,
@@ -1467,25 +1486,6 @@
           306612,
           308769
         ]
-      }
-    },
-    {
-      "projectID": 463457,
-      "fileID": 3554833,
-      "required": true,
-      "__meta": {
-        "name": "Stendhal",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
-      "projectID": 466750,
-      "fileID": 3649311,
-      "required": true,
-      "__meta": {
-        "name": "HealthCare"
       }
     },
     {
@@ -1570,7 +1570,7 @@
     },
     {
       "projectID": 483166,
-      "fileID": 3571914,
+      "fileID": 3661225,
       "required": true,
       "__meta": {
         "name": "Incantationem",
@@ -1624,20 +1624,19 @@
       }
     },
     {
+      "projectID": 492180,
+      "fileID": 3671909,
+      "required": true,
+      "__meta": {
+        "name": "Inspecio"
+      }
+    },
+    {
       "projectID": 495267,
       "fileID": 3669860,
       "required": true,
       "__meta": {
         "name": "Inventory Profiles Next"
-      }
-    },
-    {
-
-      "projectID": 492180,
-      "fileID": 3671909,      
-      "required": true,
-      "__meta": {
-        "name": "Inspecio"
       }
     },
     {
@@ -1657,17 +1656,6 @@
       }
     },
     {
-      "projectID": 506898,
-      "fileID": 3668091,
-      "required": true,
-      "__meta": {
-        "name": "Detail Armor Bar [Fabric]",
-        "dependencies": [
-          306612
-        ]
-      }
-    },
-    {
       "projectID": 506759,
       "fileID": 3550149,
       "required": true,
@@ -1675,6 +1663,17 @@
         "name": "Fertilization (Fabric Edition)",
         "dependencies": [
           500525
+        ]
+      }
+    },
+    {
+      "projectID": 506898,
+      "fileID": 3668091,
+      "required": true,
+      "__meta": {
+        "name": "Detail Armor Bar [Fabric]",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -1784,7 +1783,7 @@
     },
     {
       "projectID": 517833,
-      "fileID": 3625099,
+      "fileID": 3668459,
       "required": true,
       "__meta": {
         "name": "Arcanus",
@@ -1889,7 +1888,7 @@
     },
     {
       "projectID": 532610,
-      "fileID": 3646495,
+      "fileID": 3667499,
       "required": true,
       "__meta": {
         "name": "oωo (owo-lib)",
@@ -1940,7 +1939,7 @@
     },
     {
       "projectID": 536648,
-      "fileID": 3649759,
+      "fileID": 3672947,
       "required": true,
       "__meta": {
         "name": "ThonkUtil",
@@ -1971,6 +1970,14 @@
       }
     },
     {
+      "projectID": 537533,
+      "fileID": 3502167,
+      "required": true,
+      "__meta": {
+        "name": "Ksyxis"
+      }
+    },
+    {
       "projectID": 537653,
       "fileID": 3660943,
       "required": true,
@@ -1982,14 +1989,6 @@
           534373,
           319057
         ]
-      }
-    },
-    {
-      "projectID": 537533,
-      "fileID": 3502167,
-      "required": true,
-      "__meta": {
-        "name": "Ksyxis"
       }
     },
     {
@@ -2033,14 +2032,6 @@
       }
     },
     {
-      "projectID": 548115,
-      "fileID": 3542113,
-      "required": true,
-      "__meta": {
-        "name": "Alternate Current"
-      }
-    },
-    {
       "projectID": 547700,
       "fileID": 3550142,
       "required": true,
@@ -2049,6 +2040,14 @@
         "dependencies": [
           500525
         ]
+      }
+    },
+    {
+      "projectID": 548115,
+      "fileID": 3542113,
+      "required": true,
+      "__meta": {
+        "name": "Alternate Current"
       }
     },
     {
@@ -2069,7 +2068,7 @@
     },
     {
       "projectID": 552176,
-      "fileID": 3550743,
+      "fileID": 3669944,
       "required": true,
       "__meta": {
         "name": "Amplified Nether"
@@ -2085,7 +2084,7 @@
     },
     {
       "projectID": 552628,
-      "fileID": 3652731,
+      "fileID": 3670774,
       "required": true,
       "__meta": {
         "name": "Winterly",
@@ -2105,7 +2104,7 @@
     },
     {
       "projectID": 554340,
-      "fileID": 3602069,
+      "fileID": 3670317,
       "required": true,
       "__meta": {
         "name": "Catwalks Inc.",
@@ -2172,7 +2171,7 @@
     },
     {
       "projectID": 560323,
-      "fileID": 3618462,
+      "fileID": 3665605,
       "required": true,
       "__meta": {
         "name": "Feature NBT Deadlock Be Gone"
@@ -2180,7 +2179,7 @@
     },
     {
       "projectID": 560752,
-      "fileID": 3662780,
+      "fileID": 3672512,
       "required": true,
       "__meta": {
         "name": "Totally Lit",
@@ -2245,14 +2244,6 @@
       }
     },
     {
-      "projectID": 567009,
-      "fileID": 3640570,
-      "required": true,
-      "__meta": {
-        "name": "Mystical Index"
-      }
-    },
-    {
       "projectID": 565968,
       "fileID": 3669904,
       "required": true,
@@ -2262,6 +2253,14 @@
           308702,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 567009,
+      "fileID": 3640570,
+      "required": true,
+      "__meta": {
+        "name": "Mystical Index"
       }
     },
     {
@@ -2298,7 +2297,7 @@
     },
     {
       "projectID": 571035,
-      "fileID": 3646389,
+      "fileID": 3670675,
       "required": true,
       "__meta": {
         "name": "Immersive Weathering "
@@ -2330,7 +2329,7 @@
     },
     {
       "projectID": 577468,
-      "fileID": 3646420,
+      "fileID": 3669825,
       "required": true,
       "__meta": {
         "name": "Dyed"
@@ -2338,7 +2337,7 @@
     },
     {
       "projectID": 580843,
-      "fileID": 3662617,
+      "fileID": 3667995,
       "required": true,
       "__meta": {
         "name": "Pleasant Pigeons",
