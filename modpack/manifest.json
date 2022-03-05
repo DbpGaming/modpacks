@@ -402,8 +402,7 @@
       "fileID": 3672635,
       "required": true,
       "__meta": {
-        "name": "Fabric Shield Lib",
-        "explicit": false
+        "name": "Fabric Shield Lib"
       }
     },
     {
@@ -1133,17 +1132,6 @@
       "required": true,
       "__meta": {
         "name": "Ksyxis"
-      }
-    },
-    {
-      "projectID": 538011,
-      "fileID": 3594300,
-      "required": true,
-      "__meta": {
-        "name": "Basic Shields [Fabric]",
-        "dependencies": [
-          380649
-        ]
       }
     },
     {
