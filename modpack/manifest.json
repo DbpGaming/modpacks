@@ -291,6 +291,17 @@
       }
     },
     {
+      "projectID": 354231,
+      "fileID": 3362125,
+      "required": true,
+      "__meta": {
+        "name": "LambdaControls",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 356643,
       "fileID": 3569439,
       "required": true,
