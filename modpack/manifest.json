@@ -24,8 +24,24 @@
       }
     },
     {
+      "projectID": 225608,
+      "fileID": 3631606,
+      "required": true,
+      "__meta": {
+        "name": "WorldEdit"
+      }
+    },
+    {
+      "projectID": 228525,
+      "fileID": 3669434,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf"
+      }
+    },
+    {
       "projectID": 242064,
-      "fileID": 3615858,
+      "fileID": 3671374,
       "required": true,
       "__meta": {
         "name": "Item Scroller",
@@ -108,8 +124,20 @@
       }
     },
     {
+      "projectID": 286328,
+      "fileID": 3662439,
+      "required": true,
+      "__meta": {
+        "name": "RSWires",
+        "dependencies": [
+          306612,
+          308769
+        ]
+      }
+    },
+    {
       "projectID": 303119,
-      "fileID": 3647223,
+      "fileID": 3671369,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -117,7 +145,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3634318,
+      "fileID": 3671143,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -152,7 +180,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 3666906,
+      "fileID": 3670493,
       "required": true,
       "__meta": {
         "name": "Roughly Enough Items Fabric/Forge (REI)",
@@ -198,6 +226,18 @@
         "name": "Xaero's World Map",
         "dependencies": [
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 317856,
+      "fileID": 3666060,
+      "required": true,
+      "__meta": {
+        "name": "[Fabric] Expanded Storage",
+        "dependencies": [
+          306612,
+          530668
         ]
       }
     },
@@ -254,22 +294,19 @@
       }
     },
     {
+      "projectID": 341284,
+      "fileID": 3629559,
+      "required": true,
+      "__meta": {
+        "name": "Trinkets (Fabric)"
+      }
+    },
+    {
       "projectID": 349239,
       "fileID": 3613878,
       "required": true,
       "__meta": {
         "name": "Carpet"
-      }
-    },
-    {
-      "projectID": 349240,
-      "fileID": 3658004,
-      "required": true,
-      "__meta": {
-        "name": "Carpet Extra",
-        "dependencies": [
-          349239
-        ]
       }
     },
     {
@@ -289,6 +326,25 @@
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Fabric)"
+      }
+    },
+    {
+      "projectID": 354339,
+      "fileID": 3618464,
+      "required": true,
+      "__meta": {
+        "name": "Open Loader"
+      }
+    },
+    {
+      "projectID": 355914,
+      "fileID": 3578809,
+      "required": true,
+      "__meta": {
+        "name": "Improved Stations (Fabric)",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -320,7 +376,7 @@
     },
     {
       "projectID": 366140,
-      "fileID": 3551560,
+      "fileID": 3675463,
       "required": true,
       "__meta": {
         "name": "Dynamic View[Forge/Fabric]"
@@ -336,7 +392,7 @@
     },
     {
       "projectID": 377109,
-      "fileID": 3631576,
+      "fileID": 3668167,
       "required": true,
       "__meta": {
         "name": "Tool Stats"
@@ -447,6 +503,19 @@
       }
     },
     {
+      "projectID": 395864,
+      "fileID": 3670981,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS (Fabric)",
+        "dependencies": [
+          419697,
+          416294,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 397278,
       "fileID": 3599030,
       "required": true,
@@ -505,6 +574,14 @@
       }
     },
     {
+      "projectID": 407500,
+      "fileID": 3644733,
+      "required": true,
+      "__meta": {
+        "name": "Gate of Babylon"
+      }
+    },
+    {
       "projectID": 408481,
       "fileID": 3543238,
       "required": true,
@@ -533,8 +610,20 @@
       }
     },
     {
+      "projectID": 416294,
+      "fileID": 3647780,
+      "required": true,
+      "__meta": {
+        "name": "Rhino",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 419697,
-      "fileID": 3666162,
+      "fileID": 3671604,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -576,7 +665,7 @@
     },
     {
       "projectID": 428912,
-      "fileID": 3559150,
+      "fileID": 3668215,
       "required": true,
       "__meta": {
         "name": "Krypton"
@@ -623,6 +712,32 @@
       "required": true,
       "__meta": {
         "name": "Dimension Fix (Some Forge Patches Ported)"
+      }
+    },
+    {
+      "projectID": 438495,
+      "fileID": 3598889,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          419697
+        ]
+      }
+    },
+    {
+      "projectID": 438497,
+      "fileID": 3657258,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Fabric)",
+        "explicit": false,
+        "dependencies": [
+          419697,
+          438495,
+          306612
+        ]
       }
     },
     {
@@ -728,7 +843,7 @@
     },
     {
       "projectID": 459496,
-      "fileID": 3606937,
+      "fileID": 3667666,
       "required": true,
       "__meta": {
         "name": "Indium",
@@ -743,6 +858,28 @@
       "required": true,
       "__meta": {
         "name": "FerriteCore (Fabric)"
+      }
+    },
+    {
+      "projectID": 472657,
+      "fileID": 3627153,
+      "required": true,
+      "__meta": {
+        "name": "FTB Chunks (Fabric)",
+        "dependencies": [
+          306612,
+          419697,
+          438495,
+          438497
+        ]
+      }
+    },
+    {
+      "projectID": 473492,
+      "fileID": 3487949,
+      "required": true,
+      "__meta": {
+        "name": "Recipe Cache"
       }
     },
     {
@@ -819,6 +956,17 @@
       }
     },
     {
+      "projectID": 502516,
+      "fileID": 3545612,
+      "required": true,
+      "__meta": {
+        "name": "Crafting Tweaks (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
       "projectID": 508083,
       "fileID": 3557163,
       "required": true,
@@ -869,6 +1017,14 @@
       }
     },
     {
+      "projectID": 515054,
+      "fileID": 3566331,
+      "required": true,
+      "__meta": {
+        "name": "OAuth [Fabric]"
+      }
+    },
+    {
       "projectID": 518319,
       "fileID": 3545709,
       "required": true,
@@ -886,7 +1042,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 3635467,
+      "fileID": 3672241,
       "required": true,
       "__meta": {
         "name": "Skin Layers 3D (Fabric/Forge)"
@@ -902,10 +1058,23 @@
     },
     {
       "projectID": 521783,
-      "fileID": 3599857,
+      "fileID": 3554912,
       "required": true,
       "__meta": {
         "name": "Starlight (Fabric)"
+      }
+    },
+    {
+      "projectID": 525586,
+      "fileID": 3659526,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons (Fabric)",
+        "dependencies": [
+          319057,
+          421649,
+          306612
+        ]
       }
     },
     {
@@ -914,6 +1083,15 @@
       "required": true,
       "__meta": {
         "name": "Language Reload"
+      }
+    },
+    {
+      "projectID": 530668,
+      "fileID": 3649305,
+      "required": true,
+      "__meta": {
+        "name": "NinjaPhenix's Container Library",
+        "explicit": false
       }
     },
     {
@@ -944,6 +1122,38 @@
       "required": true,
       "__meta": {
         "name": "PaperDoll"
+      }
+    },
+    {
+      "projectID": 541171,
+      "fileID": 3662414,
+      "required": true,
+      "__meta": {
+        "name": "Traveler's Backpack [FABRIC]",
+        "dependencies": [
+          306612,
+          319057
+        ]
+      }
+    },
+    {
+      "projectID": 544912,
+      "fileID": 3670012,
+      "required": true,
+      "__meta": {
+        "name": "You're in Grave Danger",
+        "dependencies": [
+          319057,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 546841,
+      "fileID": 3570785,
+      "required": true,
+      "__meta": {
+        "name": "No Null Processors"
       }
     },
     {
@@ -991,13 +1201,21 @@
     },
     {
       "projectID": 556408,
-      "fileID": 3607814,
+      "fileID": 3670509,
       "required": true,
       "__meta": {
         "name": "Sodium Shadowy Path Blocks",
         "dependencies": [
           394468
         ]
+      }
+    },
+    {
+      "projectID": 560323,
+      "fileID": 3618462,
+      "required": true,
+      "__meta": {
+        "name": "Feature NBT Deadlock Be Gone"
       }
     },
     {
@@ -1037,6 +1255,14 @@
       "required": true,
       "__meta": {
         "name": "Raised"
+      }
+    },
+    {
+      "projectID": 581847,
+      "fileID": 3661589,
+      "required": true,
+      "__meta": {
+        "name": "The One Probe Fabric"
       }
     },
     {
