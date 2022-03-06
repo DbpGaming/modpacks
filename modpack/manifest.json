@@ -145,7 +145,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3671153,
+      "fileID": 3675501,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -386,7 +386,7 @@
     },
     {
       "projectID": 366140,
-      "fileID": 3551560,
+      "fileID": 3675475,
       "required": true,
       "__meta": {
         "name": "Dynamic View[Forge/Fabric]"
