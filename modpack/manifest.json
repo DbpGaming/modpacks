@@ -504,7 +504,7 @@
     },
     {
       "projectID": 393236,
-      "fileID": 3630726,
+      "fileID": 3680300,
       "required": true,
       "__meta": {
         "name": "Patchouli (Fabric)"
@@ -1273,7 +1273,7 @@
     },
     {
       "projectID": 571503,
-      "fileID": 3668903,
+      "fileID": 3680877,
       "required": true,
       "__meta": {
         "name": "Guard Villagers (Fabric)",
