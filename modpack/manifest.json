@@ -116,7 +116,7 @@
     },
     {
       "projectID": 280294,
-      "fileID": 3548893,
+      "fileID": 3680785,
       "required": true,
       "__meta": {
         "name": "FPS Reducer",
@@ -770,7 +770,7 @@
     },
     {
       "projectID": 393236,
-      "fileID": 3630726,
+      "fileID": 3680300,
       "required": true,
       "__meta": {
         "name": "Patchouli (Fabric)"
@@ -1282,7 +1282,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3669571,
+      "fileID": 3680650,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -1644,7 +1644,7 @@
     },
     {
       "projectID": 495267,
-      "fileID": 3669860,
+      "fileID": 3679959,
       "required": true,
       "__meta": {
         "name": "Inventory Profiles Next"
@@ -2316,7 +2316,7 @@
     },
     {
       "projectID": 571503,
-      "fileID": 3668903,
+      "fileID": 3680877,
       "required": true,
       "__meta": {
         "name": "Guard Villagers (Fabric)",
