@@ -36,7 +36,7 @@
     },
     {
       "projectID": 248787,
-      "fileID": 3626708,
+      "fileID": 3686478,
       "required": true,
       "__meta": {
         "name": "AppleSkin",
@@ -47,7 +47,7 @@
     },
     {
       "projectID": 250398,
-      "fileID": 3669327,
+      "fileID": 3681832,
       "required": true,
       "__meta": {
         "name": "Controlling"
@@ -63,7 +63,7 @@
     },
     {
       "projectID": 261605,
-      "fileID": 3543431,
+      "fileID": 3687768,
       "required": true,
       "__meta": {
         "name": "EasierVillagerTrading"
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 303119,
-      "fileID": 3671371,
+      "fileID": 3692220,
       "required": true,
       "__meta": {
         "name": "MaLiLib"
@@ -109,7 +109,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3675501,
+      "fileID": 3689020,
       "required": true,
       "__meta": {
         "name": "Fabric API"
@@ -133,7 +133,7 @@
     },
     {
       "projectID": 308793,
-      "fileID": 3615727,
+      "fileID": 3682009,
       "required": true,
       "__meta": {
         "name": "Clear Despawn [Fabric]",
@@ -144,7 +144,7 @@
     },
     {
       "projectID": 308892,
-      "fileID": 3671386,
+      "fileID": 3692244,
       "required": true,
       "__meta": {
         "name": "Litematica",
@@ -235,7 +235,7 @@
     },
     {
       "projectID": 344996,
-      "fileID": 3668857,
+      "fileID": 3688924,
       "required": true,
       "__meta": {
         "name": "EditSign (Forge&Fabric)"
@@ -284,7 +284,7 @@
     },
     {
       "projectID": 353890,
-      "fileID": 3606828,
+      "fileID": 3684963,
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Fabric)"
@@ -318,14 +318,6 @@
       "required": true,
       "__meta": {
         "name": "Lithium (Fabric)"
-      }
-    },
-    {
-      "projectID": 365727,
-      "fileID": 3470993,
-      "required": true,
-      "__meta": {
-        "name": "Dark Loading Screen"
       }
     },
     {
@@ -381,7 +373,7 @@
     },
     {
       "projectID": 391366,
-      "fileID": 3669039,
+      "fileID": 3687279,
       "required": true,
       "__meta": {
         "name": "Repurposed Structures (Fabric)",
@@ -448,7 +440,7 @@
     },
     {
       "projectID": 397510,
-      "fileID": 3670634,
+      "fileID": 3693067,
       "required": true,
       "__meta": {
         "name": "Carpet TIS Addition",
@@ -475,7 +467,7 @@
     },
     {
       "projectID": 403815,
-      "fileID": 3543420,
+      "fileID": 3687748,
       "required": true,
       "__meta": {
         "name": "AdvancementInfo"
@@ -522,7 +514,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3671589,
+      "fileID": 3684742,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -552,7 +544,7 @@
     },
     {
       "projectID": 428912,
-      "fileID": 3668215,
+      "fileID": 3682488,
       "required": true,
       "__meta": {
         "name": "Krypton"
@@ -560,7 +552,7 @@
     },
     {
       "projectID": 432008,
-      "fileID": 3570779,
+      "fileID": 3684046,
       "required": true,
       "__meta": {
         "name": "Visual Overhaul",
@@ -625,7 +617,7 @@
     },
     {
       "projectID": 447673,
-      "fileID": 3669692,
+      "fileID": 3682548,
       "required": true,
       "__meta": {
         "name": "Sodium Extra",
@@ -663,7 +655,7 @@
     },
     {
       "projectID": 455508,
-      "fileID": 3669331,
+      "fileID": 3687476,
       "required": true,
       "__meta": {
         "name": "Iris Shaders",
@@ -856,7 +848,7 @@
     },
     {
       "projectID": 511319,
-      "fileID": 3669685,
+      "fileID": 3682509,
       "required": true,
       "__meta": {
         "name": "Reese's Sodium Options",
@@ -899,7 +891,7 @@
     },
     {
       "projectID": 521594,
-      "fileID": 3523462,
+      "fileID": 3695381,
       "required": true,
       "__meta": {
         "name": "Wavey Capes"
@@ -1006,7 +998,7 @@
     },
     {
       "projectID": 563977,
-      "fileID": 3599769,
+      "fileID": 3692488,
       "required": true,
       "__meta": {
         "name": "Puzzle",
@@ -1033,6 +1025,14 @@
       "required": true,
       "__meta": {
         "name": "Better Fps - Render Distance[Fabric]"
+      }
+    },
+    {
+      "projectID": 594044,
+      "fileID": 3695622,
+      "required": true,
+      "__meta": {
+        "name": "Better Loading Screen"
       }
     }
   ]
