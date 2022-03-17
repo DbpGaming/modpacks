@@ -110,7 +110,7 @@
     },
     {
       "projectID": 280510,
-      "fileID": 3615618,
+      "fileID": 3683608,
       "required": true,
       "__meta": {
         "name": "AttributeFix"
@@ -231,7 +231,7 @@
     },
     {
       "projectID": 317856,
-      "fileID": 3666056,
+      "fileID": 3695697,
       "required": true,
       "__meta": {
         "name": "[Fabric] Expanded Storage",
@@ -989,6 +989,19 @@
       }
     },
     {
+      "projectID": 500525,
+      "fileID": 3684724,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Fabric Edition)",
+        "explicit": false,
+        "dependencies": [
+          319057,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 506898,
       "fileID": 3668091,
       "required": true,
@@ -1111,7 +1124,7 @@
     },
     {
       "projectID": 536984,
-      "fileID": 3669461,
+      "fileID": 3683202,
       "required": true,
       "__meta": {
         "name": "St'ructure Tools",
@@ -1154,6 +1167,39 @@
       }
     },
     {
+      "projectID": 547695,
+      "fileID": 3549467,
+      "required": true,
+      "__meta": {
+        "name": "KleeSlabs (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547696,
+      "fileID": 3549514,
+      "required": true,
+      "__meta": {
+        "name": "NetherPortalFix (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547699,
+      "fileID": 3550139,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Essentials (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
       "projectID": 548115,
       "fileID": 3542113,
       "required": true,
@@ -1163,7 +1209,7 @@
     },
     {
       "projectID": 551763,
-      "fileID": 3672994,
+      "fileID": 3695148,
       "required": true,
       "__meta": {
         "name": "Chisel Refabricated"
@@ -1245,7 +1291,7 @@
     },
     {
       "projectID": 567114,
-      "fileID": 3668084,
+      "fileID": 3686556,
       "required": true,
       "__meta": {
         "name": "The Extractinator (Fabric)",
