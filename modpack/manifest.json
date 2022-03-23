@@ -32,6 +32,14 @@
       }
     },
     {
+      "projectID": 228525,
+      "fileID": 3695436,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf"
+      }
+    },
+    {
       "projectID": 233564,
       "fileID": 3672447,
       "required": true,
@@ -49,14 +57,6 @@
       "__meta": {
         "name": "Reborn Core",
         "explicit": false
-      }
-    },
-    {
-      "projectID": 228525,
-      "fileID": 3695436,
-      "required": true,
-      "__meta": {
-        "name": "Bookshelf"
       }
     },
     {
@@ -1327,7 +1327,7 @@
     },
     {
       "projectID": 571503,
-      "fileID": 3680877,
+      "fileID": 3697634,
       "required": true,
       "__meta": {
         "name": "Guard Villagers (Fabric)",
