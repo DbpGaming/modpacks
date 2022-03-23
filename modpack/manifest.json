@@ -52,6 +52,14 @@
       }
     },
     {
+      "projectID": 228525,
+      "fileID": 3695436,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf"
+      }
+    },
+    {
       "projectID": 242064,
       "fileID": 3671377,
       "required": true,
@@ -378,7 +386,7 @@
     },
     {
       "projectID": 366140,
-      "fileID": 3675475,
+      "fileID": 3701747,
       "required": true,
       "__meta": {
         "name": "Dynamic View[Forge/Fabric]"
@@ -394,7 +402,7 @@
     },
     {
       "projectID": 377109,
-      "fileID": 3631576,
+      "fileID": 3697307,
       "required": true,
       "__meta": {
         "name": "Tool Stats"
@@ -410,7 +418,7 @@
     },
     {
       "projectID": 381257,
-      "fileID": 3555013,
+      "fileID": 3709325,
       "required": true,
       "__meta": {
         "name": "CompleteConfig"
@@ -554,7 +562,7 @@
     },
     {
       "projectID": 401648,
-      "fileID": 3667534,
+      "fileID": 3707871,
       "required": true,
       "__meta": {
         "name": "BetterF3"
@@ -609,7 +617,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3684742,
+      "fileID": 3705894,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric)",
@@ -674,7 +682,7 @@
     },
     {
       "projectID": 433760,
-      "fileID": 3523463,
+      "fileID": 3699198,
       "required": true,
       "__meta": {
         "name": "Not Enough Animations"
@@ -744,7 +752,7 @@
     },
     {
       "projectID": 440979,
-      "fileID": 3680650,
+      "fileID": 3707010,
       "required": true,
       "__meta": {
         "name": "WTHIT",
@@ -879,6 +887,14 @@
       }
     },
     {
+      "projectID": 472772,
+      "fileID": 3706503,
+      "required": true,
+      "__meta": {
+        "name": "DashLoader"
+      }
+    },
+    {
       "projectID": 473492,
       "fileID": 3487949,
       "required": true,
@@ -907,7 +923,7 @@
     },
     {
       "projectID": 477078,
-      "fileID": 3561474,
+      "fileID": 3709988,
       "required": true,
       "__meta": {
         "name": "Custom Entity Models (CEM)"
@@ -1257,7 +1273,7 @@
     },
     {
       "projectID": 563977,
-      "fileID": 3692488,
+      "fileID": 3697550,
       "required": true,
       "__meta": {
         "name": "Puzzle",
@@ -1331,7 +1347,7 @@
     },
     {
       "projectID": 594044,
-      "fileID": 3695622,
+      "fileID": 3697289,
       "required": true,
       "__meta": {
         "name": "Better Loading Screen"
